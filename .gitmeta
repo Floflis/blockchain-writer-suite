@@ -1,0 +1,8 @@
+chown -h 1000:1000 './[ChatGPT]Brainstorming.html'
+chmod 0777 './[ChatGPT]Brainstorming.html'
+/usr/bin/touch -hcmd "2023-04-19 20:08:26.5468767000 -0300" './[ChatGPT]Brainstorming.html'
+/usr/bin/touch -hcad "2023-04-19 20:28:21.6637025000 -0300" './[ChatGPT]Brainstorming.html'
+chown -h 1000:1000 './token-price-calc.sh'
+chmod 0777 './token-price-calc.sh'
+/usr/bin/touch -hcmd "2023-04-19 20:09:13.0249424000 -0300" './token-price-calc.sh'
+/usr/bin/touch -hcad "2023-04-19 20:27:46.3591597000 -0300" './token-price-calc.sh'
