@@ -1,0 +1,5 @@
+- Use CoinGecko to inform the tx cost in USD
+
+- Merge the two token-price-calc.sh
+
+- rename token-price-calc.sh
