@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Set gas price in Gwei
-gas_price=$(curl -s https://www.gasnow.org/api/v3/gas/price | jq -r '.data.standard')
+# get current gas price in Gwei from beaconcha.in API
+gas_price=$(curl -s https://beaconcha.in/api/v1/execution/gasnow | jq -r '.data.standard' | cut -c1-2) #"cut", from https://stackoverflow.com/a/1405641
 
 # Set gas limit
 gas_limit=21000
 
 # Read text file size in bytes
-file_size=$(wc -c < your_text_file.txt)
+file_size=$(wc -c < sample.txt)
 
 # Calculate transaction fee in Wei
 tx_fee=$(( $gas_price * $gas_limit * $file_size * 1000000000 ))
