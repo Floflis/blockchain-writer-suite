@@ -1,4 +1,5 @@
 - Use CoinGecko to inform the tx cost in USD
+- Convert string to HEX (!) before coming with a filesize result
 
 - Merge the two token-price-calc.sh
 
