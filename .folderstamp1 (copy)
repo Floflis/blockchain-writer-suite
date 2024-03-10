@@ -1,0 +1,42 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-calc
+
+  File: ./sample.txt
+  Size: 5         	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 977107      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-10 04:55:31.100242200 -0300
+Modify: 2023-04-19 20:34:19.491848000 -0300
+Change: 2023-04-19 20:36:50.018659300 -0300
+ Birth: 2023-04-19 20:34:19.485669500 -0300
+IPFS hash: QmeomffUNfmQy76CQGy9NdmqEnnHU9soCexBnGU3ezPHVH
+------------------------------
+  File: ./Tasks.txt
+  Size: 177       	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 980369      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-19 21:19:55.712974700 -0300
+Modify: 2023-04-19 21:19:41.143279500 -0300
+Change: 2023-04-19 21:19:41.469313600 -0300
+ Birth: 2023-04-19 21:19:41.142692400 -0300
+IPFS hash: QmckULijTZb7nSgcEsbKbYRtoRTPBDvfaG6J4KM28Fo7qe
+------------------------------
+  File: ./token-price-calc-2.sh
+  Size: 659       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 977192      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-10 04:55:35.564236000 -0300
+Modify: 2023-04-19 20:48:03.276684400 -0300
+Change: 2023-04-19 20:48:03.323355800 -0300
+ Birth: 2023-04-19 20:48:03.258620200 -0300
+IPFS hash: Qmbhm2P1Nsms9gKCD4PpwqRcsFedjtJ6D8PyFH3TMZHdwY
+------------------------------
+  File: ./token-price-calc.sh
+  Size: 705       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 977185      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-19 20:48:18.322289500 -0300
+Modify: 2023-04-19 20:48:02.525917000 -0300
+Change: 2023-04-19 20:48:02.850817700 -0300
+ Birth: 2023-04-19 20:48:02.506091300 -0300
+IPFS hash: QmZu3sNWyL6rknWuUPE7MmqUMN2qfEaWFAEdG77GN1TZmP
+------------------------------
