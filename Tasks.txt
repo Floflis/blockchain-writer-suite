@@ -1,5 +1,6 @@
 Online essential tools to replicate:
-https://encode-decode.com/aes-128-ecb-encrypt-online/ (TouchPass fix)
+- https://encode-decode.com/aes-128-ecb-encrypt-online/ (TouchPass fix)
+- https://base64.guru/converter/encode/file
 
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/eth-post-calc
 
