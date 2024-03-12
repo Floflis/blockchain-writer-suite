@@ -1,5 +1,13 @@
 Branch: main
-.folderstamp1: QmPX1ww5khxdaYpJP9ZwK1VHTdFi459d9MGbRUPVYM3QAZ
-.folderstamp2: QmRvRiwgw3KSzvEwsgjbC1BSSq7AzCe7MFD9cGehKWhkma
-.folderstamp3: Qmf9qFxLYippo5pYB8zzGnpFPxNjEQvKSByfsGzAroitHt
-Tasks.txt: QmdVRUuGgDkbn9CzH82TgZxSW8RdVzQhikQPw35C6NErB9
+bin-base64/.folderstamp1: Qmf9qFxLYippo5pYB8zzGnpFPxNjEQvKSByfsGzAroitHt
+bin-base64/.folderstamp2: QmTUMG9M5CzZtUSPNML22hcjpM21CoF5uBQURWrrNeDbkz
+bin-base64/.folderstamp3: QmUHVjqF5S3eEMty87VTsGuTP4TkNbDKR2155rFYrz1mmk
+bin-base64/.folderstamp4: QmTFtPQ73Q4Gc4ivSFpiMFVizBxEJymtGsYEPEsZF5q77Q
+bin-base64/IMG_20240207_202001_384.base64-bkp.txt: QmQZRZ1qLy9fmEC9Zyfe1HCcPz3dApYhYGwoaaPENsmamr
+bin-base64/IMG_20240207_202001_384.base64.txt: QmQZRZ1qLy9fmEC9Zyfe1HCcPz3dApYhYGwoaaPENsmamr
+bin-base64/IMG_20240207_202001_384.base64.txt-0.jpg: QmQuT5hjXFi7arvYKr6Fp6ShFENgNBfbM1YvpKUXCiotwD
+bin-base64/IMG_20240207_202001_384.base64.txt.jpg: QmQuT5hjXFi7arvYKr6Fp6ShFENgNBfbM1YvpKUXCiotwD
+bin-base64/IMG_20240207_202001_384.jpg: QmX9gQLR7xaTwpeCGqjkUAc2gTkZHdZ2oWP8whX6HXRuew
+text-hex/test-output.txt: QmfA25x7yk9M3MKpX8wy1nBsoPLrVy5rBpWG4uQrALh2HG
+text-hex/test-outputreverse.txt: QmVXCxwHvaV7P2ZCz8fnG49kX85kRC2VLn2wFwxoju71u3
+text-hex/test.txt: QmVXCxwHvaV7P2ZCz8fnG49kX85kRC2VLn2wFwxoju71u3
