@@ -1,0 +1,5 @@
+Online essential tools to replicate:
+https://encode-decode.com/aes-128-ecb-encrypt-online/ (TouchPass fix)
+https://base64.guru/converter/encode/file
+
+https://www.rapidtables.com/convert/number/ascii-to-hex.html
