@@ -50,6 +50,16 @@ Change: 2024-03-12 20:17:22.374219100 -0300
  Birth: 2024-03-12 20:17:11.386130000 -0300
 IPFS hash: 
 ------------------------------
+  File: ./Gemini (12_03_2024 20_25_00)
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 2024463     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 20:26:53.649820500 -0300
+Modify: 2024-03-12 20:26:53.717816300 -0300
+Change: 2024-03-12 20:26:53.717816300 -0300
+ Birth: 2024-03-12 20:26:53.649820500 -0300
+IPFS hash: 
+------------------------------
   File: ./Tasks.txt
   Size: 795       	Blocks: 8          IO Block: 4096   regular file
 Device: 8,52	Inode: 2024392     Links: 1
