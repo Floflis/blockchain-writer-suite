@@ -2,9 +2,10 @@ Online essential tools to replicate:
 - https://encode-decode.com/aes-128-ecb-encrypt-online/ (TouchPass fix)
 - https://base64.guru/converter/encode/file
 
+To fix:
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/eth-post-calc
-
-- file list serializer ("----->")
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/bin-base64
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/file-list-serializer
 
 - file splitter
 - posts database (external repo, already I have one)

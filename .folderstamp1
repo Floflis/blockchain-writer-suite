@@ -1,0 +1,52 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite
+
+  File: ./bin-base64
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 2024076     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 17:56:37.137421500 -0300
+Modify: 2024-03-12 18:09:00.392578800 -0300
+Change: 2024-03-12 18:09:00.392578800 -0300
+ Birth: 2024-03-12 17:56:37.137421500 -0300
+IPFS hash: 
+------------------------------
+  File: ./eth-post-calc
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 977021      Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-19 21:19:44.890987800 -0300
+Modify: 2024-03-10 04:58:55.847965400 -0300
+Change: 2024-03-10 04:58:55.847965400 -0300
+ Birth: 2023-04-19 20:07:13.283351300 -0300
+IPFS hash: 
+------------------------------
+  File: ./file-list-serializer.sh
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 2024277     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 18:14:57.476601000 -0300
+Modify: 2024-03-12 18:14:57.476601000 -0300
+Change: 2024-03-12 18:14:59.620587100 -0300
+ Birth: 2024-03-12 18:14:57.476601000 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Tasks.txt
+  Size: 454       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2024075     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 17:56:49.325490600 -0300
+Modify: 2024-03-12 17:56:30.493384300 -0300
+Change: 2024-03-12 17:56:30.817386100 -0300
+ Birth: 2024-03-12 17:56:30.493384300 -0300
+IPFS hash: QmdVRUuGgDkbn9CzH82TgZxSW8RdVzQhikQPw35C6NErB9
+------------------------------
+  File: ./text-hex
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 2024016     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 16:35:15.319237100 -0300
+Modify: 2024-03-12 16:35:52.273781300 -0300
+Change: 2024-03-12 16:35:52.273781300 -0300
+ Birth: 2024-03-12 16:35:15.319237100 -0300
+IPFS hash: 
+------------------------------
