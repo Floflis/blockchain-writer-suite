@@ -1,0 +1,62 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite
+
+  File: ./ascii-to-hex-0.sh
+  Size: 333       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2024006     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 16:28:41.962053500 -0300
+Modify: 2024-03-12 16:27:51.237253000 -0300
+Change: 2024-03-12 16:30:50.843640400 -0300
+ Birth: 2024-03-12 16:27:51.221250000 -0300
+IPFS hash: QmdC8WeAiYmgnpk4iMwb7jXY1iiKHrjNwUJ8rVyGkLEpNa
+------------------------------
+  File: ./ascii-to-hex.sh
+  Size: 331       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2024010     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 16:31:12.338061800 -0300
+Modify: 2024-03-12 16:31:05.241275700 -0300
+Change: 2024-03-12 16:31:05.625318500 -0300
+ Birth: 2024-03-12 16:31:05.241275700 -0300
+IPFS hash: QmdAckvZaaQUkhxVgDAyQVK8RGKtv86EXtck9URBHD33t5
+------------------------------
+  File: ./eth-post-calc
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 977021      Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-19 21:19:44.890987800 -0300
+Modify: 2024-03-10 04:58:55.847965400 -0300
+Change: 2024-03-10 04:58:55.847965400 -0300
+ Birth: 2023-04-19 20:07:13.283351300 -0300
+IPFS hash: 
+------------------------------
+  File: ./hex-to-ascii.sh
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 2024011     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 16:33:33.523478900 -0300
+Modify: 2024-03-12 16:33:33.523478900 -0300
+Change: 2024-03-12 16:33:36.263704900 -0300
+ Birth: 2024-03-12 16:33:33.523478900 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Tasks.txt
+  Size: 211       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2023981     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-11 23:38:46.301587900 -0300
+Modify: 2024-03-11 23:38:40.273712200 -0300
+Change: 2024-03-11 23:38:40.597705500 -0300
+ Birth: 2024-03-11 23:38:40.273712200 -0300
+IPFS hash: Qmeor79AbEH8Cbah1pQ9qNt3NCAngUCLQq6onTaMCuN3v1
+------------------------------
+  File: ./test.txt
+  Size: 46        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2024008     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 16:28:41.974055400 -0300
+Modify: 2024-03-12 16:28:26.055430300 -0300
+Change: 2024-03-12 16:28:26.399488300 -0300
+ Birth: 2024-03-12 16:28:26.051429700 -0300
+IPFS hash: QmVXCxwHvaV7P2ZCz8fnG49kX85kRC2VLn2wFwxoju71u3
+------------------------------

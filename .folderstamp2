@@ -1,0 +1,32 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite
+
+  File: ./ascii-to-hex.sh
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 2024004     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-12 16:27:20.579263000 -0300
+Modify: 2024-03-12 16:27:13.293756200 -0300
+Change: 2024-03-12 16:27:18.210776800 -0300
+ Birth: 2024-03-12 16:27:13.293756200 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./eth-post-calc
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 977021      Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-04-19 21:19:44.890987800 -0300
+Modify: 2024-03-10 04:58:55.847965400 -0300
+Change: 2024-03-10 04:58:55.847965400 -0300
+ Birth: 2023-04-19 20:07:13.283351300 -0300
+IPFS hash: 
+------------------------------
+  File: ./Tasks.txt
+  Size: 211       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2023981     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-11 23:38:46.301587900 -0300
+Modify: 2024-03-11 23:38:40.273712200 -0300
+Change: 2024-03-11 23:38:40.597705500 -0300
+ Birth: 2024-03-11 23:38:40.273712200 -0300
+IPFS hash: Qmeor79AbEH8Cbah1pQ9qNt3NCAngUCLQq6onTaMCuN3v1
+------------------------------
