@@ -1,21 +1,21 @@
-commit QmaD3gPhyppNc71HV359GC487TSEFfk4qQbxh8Wm7DSz8B
+commit QmeJm2k37j5uDvk2VueeYUCRAdLRrr2e5JnUdY3jUAAgoD
 Branch: main
 
 ------------------------------
 
 chown -h 1000:1000 './.gitmeta'
 chmod 0755 './.gitmeta'
-/usr/bin/touch -hcmd "2024-03-12 23:44:18.7558242000 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2024-03-12 23:36:31.7363590000 -0300" './.gitmeta'
+/usr/bin/touch -hcmd "2024-03-13 00:59:15.0632498000 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2024-03-12 23:44:18.9038241000 -0300" './.gitmeta'
 chown -h 1000:1000 './.gitmeta-cid'
 chmod 0664 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2024-03-12 23:44:18.7078243000 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2024-03-12 23:44:18.7478242000 -0300" './.gitmeta-cid'
-chown -h 1000:1000 './eth-post-calc/token-price-calc.sh'
-chmod 0755 './eth-post-calc/token-price-calc.sh'
-/usr/bin/touch -hcmd "2024-03-12 19:20:39.1478410000 -0300" './eth-post-calc/token-price-calc.sh'
-/usr/bin/touch -hcad "2024-03-12 23:44:02.3118408000 -0300" './eth-post-calc/token-price-calc.sh'
-chown -h 1000:1000 './eth-post-calc/token-price-calc_old.sh'
-chmod 0755 './eth-post-calc/token-price-calc_old.sh'
-/usr/bin/touch -hcmd "2023-04-19 20:48:02.5259170000 -0300" './eth-post-calc/token-price-calc_old.sh'
-/usr/bin/touch -hcad "2024-03-12 23:44:02.3158408000 -0300" './eth-post-calc/token-price-calc_old.sh'
+/usr/bin/touch -hcmd "2024-03-13 00:59:15.0152489000 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2024-03-13 00:59:15.0592497000 -0300" './.gitmeta-cid'
+chown -h 1000:1000 './Tasks.txt'
+chmod 0664 './Tasks.txt'
+/usr/bin/touch -hcmd "2024-03-13 00:58:37.1625054000 -0300" './Tasks.txt'
+/usr/bin/touch -hcad "2024-03-13 00:58:37.1585053000 -0300" './Tasks.txt'
+chown -h 1000:1000 './poster/eth-post-calc/token-price-calc.sh'
+chmod 0755 './poster/eth-post-calc/token-price-calc.sh'
+/usr/bin/touch -hcmd "2024-03-13 00:58:57.2229097000 -0300" './poster/eth-post-calc/token-price-calc.sh'
+/usr/bin/touch -hcad "2024-03-13 00:59:14.8912466000 -0300" './poster/eth-post-calc/token-price-calc.sh'
