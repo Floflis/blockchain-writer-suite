@@ -1,0 +1,47 @@
+Are you aware about the Ethereum Go tool "ethereal"?
+
+I need a Bash script (blockchain-poster.sh) that leverages either (or both if necessary) geth/ethereal.
+
+Its purpose will be to pick the HEX contents of a .txt file, and send it (Transfer method) to a given ETH address. (yes, these custom HEX messages that begin with 0x, when you're sending 0 ETH just for the purpose of the message in the Transfer).
+
+Then, user will unlock its local wallet and sign to send.
+
+
+
+
+
+
+
+GENERATING PROJECT...
+Step 0
+Computing project structure
+{"fileNames":["blockchain-poster.sh","README.md",".gitignore"]}
+Step 1
+Finding related files for blockchain-poster.sh
+{"dependencies":[]}
+Step 2
+Generating blockchain-poster.sh
+Creating file...
+Thinking...
+Writing code...
+Step 3
+Finding related files for README.md
+{"dependencies":["blockchain-poster.sh"]}
+Step 4
+Generating README.md
+Creating file...
+Thinking...
+Writing code...
+Step 5
+Finding related files for .gitignore
+{"dependencies":["blockchain-poster.sh","README.md"]}
+Step 6
+Generating .gitignore
+Creating file...
+Thinking...
+Writing code...
+Step 7
+All done!
+
+
+
