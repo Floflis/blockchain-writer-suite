@@ -28,6 +28,8 @@ tx_id=$(ethereal transaction send --from=$USER_ADDRESS --to=$destination_address
 # Store the transaction ID in a JSON file
 echo "{\"transaction_id\": \"$tx_id\"}" | jq '.' > transaction_id.json
 
+rm tmp-content.hex.txt
+
 # Unlock the local wallet and sign to send
 ethereal account unlock
 
