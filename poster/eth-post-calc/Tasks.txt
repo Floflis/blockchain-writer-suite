@@ -1,0 +1,15 @@
+- Use CoinGecko to inform the tx cost in USD
+- Convert string to HEX (!) before coming with a filesize result
+
+Better gwei price calcs:
+Ethereum:
+https://metaschool.so/gastracker/ethereum
+https://tokentool.bitbond.com/gas-price/ethereum
+Polygon:
+https://metaschool.so/gastracker/polygon
+https://tokentool.bitbond.com/gas-price/polygon
+https://polygonscan.com/gastracker
+
+- Merge the two token-price-calc.sh
+
+- rename token-price-calc.sh
