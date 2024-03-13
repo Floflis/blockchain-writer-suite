@@ -1,17 +1,21 @@
-commit QmQbLrWXYLJ2kCXQzjL7UkqtjutxwUgChbDq6RxYEFfSpr
+commit QmaD3gPhyppNc71HV359GC487TSEFfk4qQbxh8Wm7DSz8B
 Branch: main
 
 ------------------------------
 
 chown -h 1000:1000 './.gitmeta'
 chmod 0755 './.gitmeta'
-/usr/bin/touch -hcmd "2024-03-12 23:36:31.6363591000 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2024-03-12 23:30:08.7569723000 -0300" './.gitmeta'
+/usr/bin/touch -hcmd "2024-03-12 23:44:18.7558242000 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2024-03-12 23:36:31.7363590000 -0300" './.gitmeta'
 chown -h 1000:1000 './.gitmeta-cid'
 chmod 0664 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2024-03-12 23:36:31.5883592000 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2024-03-12 23:36:31.6283591000 -0300" './.gitmeta-cid'
-chown -h 1000:1000 './Tasks.txt'
-chmod 0664 './Tasks.txt'
-/usr/bin/touch -hcmd "2024-03-12 23:36:09.1283894000 -0300" './Tasks.txt'
-/usr/bin/touch -hcad "2024-03-12 23:36:31.4963593000 -0300" './Tasks.txt'
+/usr/bin/touch -hcmd "2024-03-12 23:44:18.7078243000 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2024-03-12 23:44:18.7478242000 -0300" './.gitmeta-cid'
+chown -h 1000:1000 './eth-post-calc/token-price-calc.sh'
+chmod 0755 './eth-post-calc/token-price-calc.sh'
+/usr/bin/touch -hcmd "2024-03-12 19:20:39.1478410000 -0300" './eth-post-calc/token-price-calc.sh'
+/usr/bin/touch -hcad "2024-03-12 23:44:02.3118408000 -0300" './eth-post-calc/token-price-calc.sh'
+chown -h 1000:1000 './eth-post-calc/token-price-calc_old.sh'
+chmod 0755 './eth-post-calc/token-price-calc_old.sh'
+/usr/bin/touch -hcmd "2023-04-19 20:48:02.5259170000 -0300" './eth-post-calc/token-price-calc_old.sh'
+/usr/bin/touch -hcad "2024-03-12 23:44:02.3158408000 -0300" './eth-post-calc/token-price-calc_old.sh'

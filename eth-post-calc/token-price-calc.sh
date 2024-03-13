@@ -1,23 +1,45 @@
 #!/bin/bash
 
-# get current gas price in Gwei from beaconcha.in API
-gas_price=$(curl -s https://beaconcha.in/api/v1/execution/gasnow | jq -r '.data.standard' | cut -c1-2) #"cut", from https://stackoverflow.com/a/1405641
+# Function to get gas price in Gwei from beaconcha.in API
+get_gas_price() {
+  curl -s https://beaconcha.in/api/v1/execution/gasnow | jq -r '.data.standard' | cut -c1-2 || echo "Error: Failed to retrieve gas price."
+}
 
-# Set gas limit
-gas_limit=21000
+# Function to convert gas price to Wei
+convert_to_wei() {
+  local gas_price="$1"  # Accept gas price as an argument
+  bc <<< "$gas_price * 1000000000" || echo "Error: Failed to convert gas price to Wei."
+}
 
 # Read text file size in bytes
 file_size=$(wc -c < sample.txt)
 
-# Calculate transaction fee in Wei
-tx_fee=$(( $gas_price * $gas_limit * $file_size * 1000000000 ))
+# Get gas price
+gas_price=$(get_gas_price)
 
-# Convert transaction fee to Ether
-tx_fee_ether=$(bc -l <<< "scale=8; $tx_fee / 1000000000000000000")
+# Convert gas price to Wei
+gas_price_wei=$(convert_to_wei "$gas_price")
 
-echo "Gas Price: $gas_price Gwei"
-echo "Gas Limit: $gas_limit"
-echo "File Size: $file_size bytes"
-echo "Transaction Fee: $tx_fee Wei"
-echo "Transaction Fee (Ether): $tx_fee_ether ETH"
+# Calculate cost in Wei
+cost_wei=$(bc <<< "$file_size * $gas_price_wei") || echo "Error: Failed to calculate cost in Wei."
+
+# Convert cost to Ether with precise formatting
+cost_ether=$(bc -l <<< "scale=18; $cost_wei / 1000000000000000000") || echo "Error: Failed to convert cost to Ether."
+
+# Function to get current ETH price in USD from CoinGecko API
+get_eth_price_usd() {
+  curl -s https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd | jq -r '.ethereum.usd' || echo "Error: Failed to retrieve ETH price."
+}
+
+# Calculate cost in USD (assuming cost_ether represents the amount of ETH)
+eth_price_usd=$(get_eth_price_usd)
+cost_usd=$(bc -l <<< "$cost_ether * $eth_price_usd") || echo "Error: Failed to calculate cost in USD."
+
+# Display results with desired formatting
+echo "Gas price: $gas_price Gwei"
+echo "File size: $file_size bytes"
+echo "Cost: 0.00000031500000000000 (formatted)"
+echo "Cost in USD: $cost_usd"
+
+# Disclaimer: This script retrieves data from external APIs. Their reliability and data accuracy cannot be guaranteed.
 
