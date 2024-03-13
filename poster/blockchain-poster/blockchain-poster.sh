@@ -13,7 +13,7 @@ eth_address=$2
 hex_contents=$(xxd -p $file_path)
 
 # Add this line to read YOUR_ADDRESS from config.json
-YOUR_ADDRESS=$(jq -r '.YOUR_ADDRESS' config.json)
+YOUR_ADDRESS=$(jq -r '.eth' /1/config/user.json)
 
 # Send the HEX contents to the given ETH address using ethereal and capture the transaction ID
 ## Send the HEX contents to the given ETH address using ethereal

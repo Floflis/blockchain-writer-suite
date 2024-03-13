@@ -1,15 +1,3 @@
 Branch: main
-Tasks.txt: QmPRhZNYgEeBKmDT5WuTsWdzz3QWKyq3mHBgtaD6iZ2pGU
-files/file-list-serializer/.folderstamp1: QmUpUoiWW5bbCCC3WkcVxotEAAFtbUyB4ePSWW9P4g7X7q
-files/file-list-serializer/file-list-serializer-0.sh: QmYHbEgYhrzTEZxkrsWG9L6DL7CVMfsJhd9V2h72BF57Q8
-files/file-list-serializer/file-list-serializer-1.sh: QmbfQacYrrnDbDQDWZgjGC1nPveT2s7BWEYB9E9KuRdWw8
-files/file-list-serializer/file-list-serializer-2.sh: QmUv93fW381Z2K61DUpjsjKmzX1kvUDatKtsjkze4gXVTn
-files/file-list-serializer/file-list-serializer-3.sh: QmPKRAxXngqq5iBpe9sZooXb5GZN4QCX4adnrHPfQmpwsp
-files/file-list-serializer/file-list-serializer-4.sh: QmYuW8xnpAHYpn2QYeyNFLqxVdvMd4jvrQABnpE1hNLKL9
-files/file-list-serializer/file-list-serializer.sh: Qme7jGnKvPWfcrAnEys2FsJ3by1JNmtnNXqBbJcN7rWEBC
-files/file-list-serializer/filelist.txt: QmVtQqFYw3E1mNoLS8S1zgcfuWeMFLDFa4ddVekgN8DpYa
-files/file-list-serializer/serialized_data_2024-03-13_01-22-06.txt: QmVE7t3HiBx8rhtpLv83tXKGq4CvgSDyTY6jB72D1v4uyR
-files/file-list-serializer/serialized_data_2024-03-13_01-23-31.txt: QmVE7t3HiBx8rhtpLv83tXKGq4CvgSDyTY6jB72D1v4uyR
-files/file-list-serializer/serialized_data_2024-03-13_01-25-29.txt: QmVE7t3HiBx8rhtpLv83tXKGq4CvgSDyTY6jB72D1v4uyR
-files/file-list-serializer/serialized_data_2024-03-13_01-27-17.txt: QmPeDuV6SSNkr5YWkGbgvFhUTW55T2NN6cPegCUWSxpyf7
-files/file-list-serializer/serialized_data_2024-03-13_01-28-21.txt: Qmb6nnCzwC5HJSoW9L4f9vPhF72wWFZB6ViHejAr5SeQ82
+poster/blockchain-poster/blockchain-poster.sh: QmcuCQ9TU9kbXLiV2Fmk7H7C5yVEysEikDkhHKGgRGhY78
+poster/blockchain-poster/transaction_id.json: QmSjk9dYd1JJKZ4qJzeYZPRQBNnMDFRvPHzqE3nXL4e9f1
