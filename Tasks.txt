@@ -1,9 +1,9 @@
 To fix (OpenAI's ChatGPT):
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/file-splitter
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/file-list-serializer
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/file-splitter (the splitter is an obligation ; the jointer is a challenge)
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/file-list-serializer (fix lines being files, use proper formatting)
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/bin-base64
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/text-encrypt
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc
 
 - main bin file, "blockchain-post"
 - post to a network: then get .bcrf according to the network (either Ethereum, Optimism or Polygon PoS) /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/blockchain-poster
