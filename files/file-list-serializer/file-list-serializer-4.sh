@@ -30,11 +30,14 @@ while IFS= read -r filename; do
   separator="-----------------------------------------------------------------------------------------------------------"
 
   # Write file information to output
+  echo "$separator" >> "$output_file"
   echo "$filename ---->" >> "$output_file"
   echo "$separator" >> "$output_file"
   cat "$filename" >> "$output_file"  # Write the entire content directly
   echo "$separator" >> "$output_file"
   echo "<---- $filename" >> "$output_file"
+  echo "$separator" >> "$output_file"
+  echo -e "" # Add separator between files!
 done < "$file_list"
 
 echo "Serialized file content to: $output_file"

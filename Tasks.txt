@@ -1,6 +1,6 @@
 To fix (OpenAI's ChatGPT):
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/file-splitter (the splitter is an obligation ; the jointer is a challenge)
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/file-list-serializer (fix lines being files, use proper formatting)
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/file-list-serializer
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/bin-base64
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/text-encrypt
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc

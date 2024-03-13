@@ -1,0 +1,15 @@
+-----------------------------------------------------------------------------------------------------------
+/media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/text-hex/test.txt ---->
+-----------------------------------------------------------------------------------------------------------
+Super textao
+Grande
+Informaçoes
+Quer ibagens
+-----------------------------------------------------------------------------------------------------------
+<---- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/text-hex/test.txt
+-----------------------------------------------------------------------------------------------------------
+/media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc/sample.txt ---->
+-----------------------------------------------------------------------------------------------------------
+test
+-----------------------------------------------------------------------------------------------------------
+<---- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc/sample.txt
