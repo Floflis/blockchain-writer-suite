@@ -1,0 +1,3 @@
+    Now can send transactions! Uses Polygon PoS by default
+    the first tx ever has been broadcast 🚀
+    with flaws. Need better measurement of gas to be used!

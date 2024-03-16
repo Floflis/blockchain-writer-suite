@@ -1,17 +1,16 @@
-commit QmUPqzX9i3RnqyoxyDXVimB5upAMTdReyRynQAH7MdMP47
+commit Qmc97nAGoMqGCQ24a96fNKcBCjN3QQEEKNu84LEgGw9VQk
 Branch: main
 
 ------------------------------
 
-chown -h 1000:1000 './poster/blockchain-poster/blockchain-poster.sh'
-chmod 0664 './poster/blockchain-poster/blockchain-poster.sh'
-/usr/bin/touch -hcmd "2024-03-16 02:46:00.2798714000 -0300" './poster/blockchain-poster/blockchain-poster.sh'
-/usr/bin/touch -hcad "2024-03-16 02:46:07.8638531000 -0300" './poster/blockchain-poster/blockchain-poster.sh'
-chown -h 1000:1000 './poster/blockchain-poster/test.txt'
-chmod 0664 './poster/blockchain-poster/test.txt'
-/usr/bin/touch -hcmd "2024-03-13 04:08:19.7042267000 -0300" './poster/blockchain-poster/test.txt'
-/usr/bin/touch -hcad "2024-03-15 19:39:36.1766658000 -0300" './poster/blockchain-poster/test.txt'
-chown -h 1000:1000 './poster/blockchain-poster/transaction_id.json'
-chmod 0664 './poster/blockchain-poster/transaction_id.json'
-/usr/bin/touch -hcmd "2024-03-16 02:44:17.9561378000 -0300" './poster/blockchain-poster/transaction_id.json'
-/usr/bin/touch -hcad "2024-03-16 02:44:28.2441093000 -0300" './poster/blockchain-poster/transaction_id.json'
+.gitmeta version: r4
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite
+Remote Name: origin
+Remote URL: https://github.com/Floflis/eth-post-calc.git
+
+------------------------------
+
+chown -h 1000:1000 './poster/blockchain-poster/Tasks.txt'
+chmod 0664 './poster/blockchain-poster/Tasks.txt'
+/usr/bin/touch -hcmd "2024-03-16 02:49:28.0474245000 -0300" './poster/blockchain-poster/Tasks.txt'
+/usr/bin/touch -hcad "2024-03-16 02:49:46.5073897000 -0300" './poster/blockchain-poster/Tasks.txt'

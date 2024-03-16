@@ -1,4 +1,7 @@
+.gitmeta-cid version: r2 
 Branch: main
-poster/blockchain-poster/blockchain-poster.sh: QmVEDVJbF4gvxc8ttCbv8Zm4BCED5PDjBVzxanUTs9SKb4
-poster/blockchain-poster/test.txt: QmNin1NL8gywS3bhKpHupbt4GWLzmfC6J1kbN33StwPXet
-poster/blockchain-poster/transaction_id.json: QmTPqrrMaRyvq9zMRiBx1BgdF4nCtwnDMjEKrS1kNsTnnK
+
+------------------------------
+
+Files:
+poster/blockchain-poster/Tasks.txt: QmUVRbEVMfvAzAt1XWi3BV5zfy1rKt96zURRGUGcD9c1sB
