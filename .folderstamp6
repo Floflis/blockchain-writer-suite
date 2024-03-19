@@ -1,0 +1,47 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/blockchain-writer-suite
+
+folderstamp version: r5
+Method: Non-recursive
+Current Git Branch: main
+First Git Remote: origin - URL: https://github.com/Floflis/eth-post-calc.git
+
+  File: ./files
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 2024787     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-13 00:48:38.558139700 -0300
+Modify: 2024-03-13 01:15:32.606040300 -0300
+Change: 2024-03-13 01:15:32.606040300 -0300
+ Birth: 2024-03-13 00:48:38.558139700 -0300
+IPFS hash: 
+------------------------------
+  File: ./poster
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 2024784     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-13 00:46:19.032911600 -0300
+Modify: 2024-03-13 00:46:36.028567300 -0300
+Change: 2024-03-13 00:46:36.028567300 -0300
+ Birth: 2024-03-13 00:46:19.032911600 -0300
+IPFS hash: 
+------------------------------
+  File: ./Tasks.txt
+  Size: 985       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 2024901     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-18 17:50:41.906725700 -0300
+Modify: 2024-03-13 01:29:14.532286500 -0300
+Change: 2024-03-13 01:29:14.868311400 -0300
+ Birth: 2024-03-13 01:29:14.532286500 -0300
+IPFS hash: QmPRhZNYgEeBKmDT5WuTsWdzz3QWKyq3mHBgtaD6iZ2pGU
+------------------------------
+  File: ./tools
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 2024786     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-13 00:48:29.158322900 -0300
+Modify: 2024-03-13 01:15:32.606040300 -0300
+Change: 2024-03-13 01:15:32.606040300 -0300
+ Birth: 2024-03-13 00:48:29.158322900 -0300
+IPFS hash: 
+------------------------------
