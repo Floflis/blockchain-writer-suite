@@ -1,0 +1,55 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/blockchain-writer-suite/files/file-list-serializer
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./file-list-serializer.sh
+  Size: 1217      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2024899     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-27 01:25:36.103431100 -0300
+Modify: 2024-03-13 01:28:15.519679900 -0300
+Change: 2024-03-13 01:28:16.387751300 -0300
+ Birth: 2024-03-13 01:28:15.519679900 -0300
+IPFS hash: Qme7jGnKvPWfcrAnEys2FsJ3by1JNmtnNXqBbJcN7rWEBC
+------------------------------
+  File: ./filelist.txt
+  Size: 183       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2024885     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-27 01:25:23.327754600 -0300
+Modify: 2024-03-13 01:21:51.695453700 -0300
+Change: 2024-03-13 01:21:52.015451200 -0300
+ Birth: 2024-03-13 01:21:51.691453800 -0300
+IPFS hash: QmVtQqFYw3E1mNoLS8S1zgcfuWeMFLDFa4ddVekgN8DpYa
+------------------------------
+  File: ./files.optimism.bcrf
+  Size: 175       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 96457       Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-27 02:27:25.990168600 -0300
+Modify: 2024-03-27 02:27:25.990168600 -0300
+Change: 2024-03-27 02:27:26.318101500 -0300
+ Birth: 2024-03-27 02:27:25.990168600 -0300
+IPFS hash: QmPnUtf7R7SSfBGKEQndoK5Wgu6a2ZEFFdSdqgubt6uZni
+------------------------------
+  File: ./lab
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,36	Inode: 3625240     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-27 01:25:28.439624200 -0300
+Modify: 2024-03-27 02:25:01.739622500 -0300
+Change: 2024-03-27 02:25:01.739622500 -0300
+ Birth: 2024-03-27 01:25:28.439624200 -0300
+IPFS hash: 
+------------------------------
+  File: ./serialized_data_2024-03-13_01-28-21.txt
+  Size: 1307      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2024900     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-27 01:25:17.975892200 -0300
+Modify: 2024-03-13 01:28:21.168142500 -0300
+Change: 2024-03-13 01:28:21.168142500 -0300
+ Birth: 2024-03-13 01:28:21.164142200 -0300
+IPFS hash: Qmb6nnCzwC5HJSoW9L4f9vPhF72wWFZB6ViHejAr5SeQ82
+------------------------------

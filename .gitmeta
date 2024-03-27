@@ -1,7 +1,7 @@
-commit QmTD3px2xfTP6FNZ91YMcsRJqiW5SdrSEM6Ttjxoix9U6H
+commit QmcGutx72r1BsWSAh8Erho9ryDfNNz2JvJHzVkupvG6FhE
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: ff018f9d0048c78a1acc1172f5d1d1e18ffec78b3b723cc6bad62d8388ca8a9d2553bc1b916f4c65c5f8f3930fc9d049f4bacf9fb452b72d0f7c1ab60f0b5ad001
+Signature: ff34e15fadea42ac07e14dde5dd647a6c9803fddae14a76702f799fe6b6ce1f02fac8686ca95eb9ede430acc7e1e47c2e3239e531b6c279390ed702dfcdf49c200
 
 ------------------------------
 
@@ -12,7 +12,15 @@ Remote URL: https://github.com/Floflis/eth-post-calc.git
 
 ------------------------------
 
-chown -h 1000:1000 './.folderstamp6'
-chmod 0664 './.folderstamp6'
-/usr/bin/touch -hcmd "2024-03-19 00:58:36.8378017000 -0300" './.folderstamp6'
-/usr/bin/touch -hcad "2024-03-19 00:58:45.1387309000 -0300" './.folderstamp6'
+chown -h 1000:1000 './files/file-list-serializer/.folderstamp1'
+chmod 0664 './files/file-list-serializer/.folderstamp1'
+/usr/bin/touch -hcmd "2024-03-27 02:27:38.8195677000 -0300" './files/file-list-serializer/.folderstamp1'
+/usr/bin/touch -hcad "2024-03-27 02:27:43.5466231000 -0300" './files/file-list-serializer/.folderstamp1'
+chown -h 1000:1000 './files/file-list-serializer/.folderstamp2'
+chmod 0664 './files/file-list-serializer/.folderstamp2'
+/usr/bin/touch -hcmd "2024-03-27 02:27:43.7625801000 -0300" './files/file-list-serializer/.folderstamp2'
+/usr/bin/touch -hcad "2024-03-27 02:27:48.4736463000 -0300" './files/file-list-serializer/.folderstamp2'
+chown -h 1000:1000 './files/file-list-serializer/files.optimism.bcrf'
+chmod 0644 './files/file-list-serializer/files.optimism.bcrf'
+/usr/bin/touch -hcmd "2024-03-27 02:27:25.9901686000 -0300" './files/file-list-serializer/files.optimism.bcrf'
+/usr/bin/touch -hcad "2024-03-27 02:27:38.7035909000 -0300" './files/file-list-serializer/files.optimism.bcrf'

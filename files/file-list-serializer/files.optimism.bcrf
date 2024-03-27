@@ -1,0 +1,9 @@
+{
+    "network": 10,
+    "txs": [
+        "0xb4ce54a87ad8e0134c47c7847984a5cf9b89d8ef39b793ace93dc16e06fd822e"
+    ],
+    "files": [
+        "file-list-serializer.sh"
+    ]
+}
