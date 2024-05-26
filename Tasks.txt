@@ -1,15 +1,16 @@
 To fix (OpenAI's ChatGPT):
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/file-splitter (the splitter is an obligation ; the jointer is a challenge)
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/file-list-serializer
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/bin-base64
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/text-encrypt
-- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc
+-? /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/file-list-serializer
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/text-encrypt (beyond the first, also support the up-to-date of TouchPass)
+- /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc (should calc for multiple networks)
 
-- main bin file, "blockchain-post"
+- main bin file, "blockchain-post", using nice green menu
 - post to a network: then get .bcrf according to the network (either Ethereum, Optimism or Polygon PoS) /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/blockchain-poster
 
 Online essential tools to replicate:
 - https://base64.guru/converter/encode/file
 - https://encode-decode.com/aes-128-ecb-encrypt-online/ (TouchPass fix)
 
-- post downloader from tx list -> posts database (external repo, already I have one)
+- new script: post downloader from tx list -> posts database (external repo, already I have one)
+
+- special animations leveraging asciinema (install it on Floflis, pre-installed) on every post https://asciinema.org/a/238491
