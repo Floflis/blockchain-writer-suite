@@ -1,14 +1,14 @@
-# Blockchain Poster
+# /poster/blockchain-poster - Floflis' blockchain-writer-suite
 
-This Bash script (blockchain-poster.sh) is designed to send custom HEX messages to a given Ethereum address using the Ethereum Go tool "ethereal".
+This Bash script is designed to send custom HEX messages to a given Ethereum address using the Ethereum Go tool "ethereal".
 
 ## Usage
 
 ```bash
-./blockchain-poster.sh <file_path> <eth_address>
+./script.sh <msg_file-path> <eth_address>
 ```
 
-- `<file_path>`: Path to the .txt file containing the HEX message.
+- `<msg_file-path>`: Path to the .txt file containing the HEX message.
 - `<eth_address>`: Ethereum address to send the HEX message to.
 
 ## Prerequisites
@@ -25,8 +25,8 @@ This Bash script (blockchain-poster.sh) is designed to send custom HEX messages 
 ## Example
 
 ```bash
-./blockchain-poster.sh message.txt 0x1234567890abcdef
+./script.sh message.txt 0x1234567890...abcdef
 ```
 
-This will send the HEX contents of `message.txt` to Ethereum address `0x1234567890abcdef`.
+This will send the HEX contents of `message.txt` to Ethereum address `0x1234567890...abcdef`.
 

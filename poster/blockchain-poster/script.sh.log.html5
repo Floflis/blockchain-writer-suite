@@ -1,0 +1,96 @@
+<pre><font color="#42E66C">     __  ,</font>
+<font color="#42E66C"> .--()°&apos;.&apos; </font>Welcome to <font color="#42E66C">Nushell</font>,
+<font color="#42E66C">&apos;|, . ,&apos;   </font>based on the <font color="#42E66C">nu</font> language,
+<font color="#42E66C"> !_-(_\    </font>where all data is structured!
+
+Please join our <font color="#E64747">Discord</font> community at <font color="#E64747">https://discord.gg/NtAbbGn</font>
+Our <font color="#50FA7B"><b>GitHub</b></font> repository is at <font color="#50FA7B"><b>https://github.com/nushell/nushell</b></font>
+Our <font color="#42E66C">Documentation</font> is located at <font color="#42E66C">http://nushell.sh</font>
+<font color="#75D7EC">Tweet</font> us at <font color="#8BE9FD"><b>@nu_shell</b></font>
+
+It&apos;s been this long since <font color="#42E66C">Nushell</font>&apos;s first commit:
+5yr 2wk 3day 23hr 51min 56sec 331ms 928µs 332ns
+
+bash [<font color="#E4F34A">WARN</font>] - (starship::utils): Executing command &quot;/usr/bin/git&quot; timed out.
+[<font color="#E4F34A">WARN</font>] - (starship::utils): You can set command_timeout in your config to a higher value to allow longer-running commands to keep executing.
+Startup Time: 1sec 282ms 224µs 268ns
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">bash</font> <font color="#50FA7B"><b>blockchain-poster.sh</b></font> <font color="#50FA7B"><b>test.txt</b></font> <font color="#50FA7B"><b>0x117483E977B4EdEe761486F645bca5824b02b1d3</b></font>
+Waiting for your transaction to be mined...
+^C
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> took <font color="#F1FA8C"><b>24m9s</b></font> 
+<font color="#FF79C6"><b>❯</b></font> <font color="#75D7EC">bash</font> <font color="#50FA7B"><b>blockchain-poster.sh</b></font> <font color="#50FA7B"><b>test.txt</b></font> <font color="#50FA7B"><b>0x117483E977B4EdEe761486F645bca5824b02b1d3</b></font>
+[DEBUG] plain_contents: 0x546573740A506F73742076696120434C4920696E7374656164206F662062726F777365720A416E6F746865722074657374206C696E650A4D6573736167650A
+Waiting for your transaction to be mined...
+Failed to send transaction: failed to send transaction: replacement transaction underpriced
+Message sent successfully to 0x117483E977B4EdEe761486F645bca5824b02b1d3! Find details in transaction_id.json
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> took <font color="#F1FA8C"><b>5s</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">ethereal</font> <font color="#50FA7B"><b>transaction</b></font> <font color="#50FA7B"><b>send</b></font> <font color="#50FA7B"><b>--help</b></font>
+Send a transaction.  For example:
+
+    ethereal transaction send --from=0x5FfC014343cd971B7eb70732021E26C35B744cc4 --to=0x2ab7150Bba7D5F181b3aF5623e52b15bB1054845	 --amount=1ether --passphrase=secret --data=0x12345
+
+This will return an exit status of 0 if the transaction is successfully submitted (and mined if --wait is supplied), 1 if the transaction is not successfully submitted, and 2 if the transaction is successfully submitted but not mined within the supplied time limit.
+
+Usage:
+  ethereal transaction send [flags]
+
+Flags:
+      --amount string                 Amount of Ether to transfer
+      --base-fee-per-gas string       base fee per gas; only needed when offline
+      --chainid string                chain ID; only needed when offline
+      --data string                   data to send with transaction (as a hex string)
+      --from string                   Address from which to transfer Ether
+      --gaslimit int                  Gas limit for the transaction; 0 is auto-select
+  -h, --help                          help for send
+      --limit duration                maximum time to wait for transaction to complete before failing (default forever)
+      --max-fee-per-gas string        Maximum fee per gas for transaction (default &quot;200Gwei&quot;)
+      --nonce string                  nonce for account; only needed when offline
+      --passphrase string             passphrase for the address from which to transfer Ether
+      --priority-fee-per-gas string   Priority fee per gas for transaction (default &quot;1.5 Gwei&quot;)
+      --privatekey string             private key for the address from which to transfer Ether
+      --raw string                    raw transaction (as a hex string).  This overrides all other options
+      --repeat int                    Number of times to repeat sending the transaction (incrementing the nonce each time) (default 1)
+      --to string                     Address to which to transfer Ether
+      --value string                  Ether to send with the transaction
+      --wait                          wait for the transaction to be mined before returning
+
+Global Flags:
+      --config string       config file (default is $HOME/.ethereal.yaml)
+      --connection string   the custom IPC or RPC path to an Ethereum node (overrides network option).  If you are running your own local instance of Ethereum this might be /home/user/.ethereum/geth.ipc (IPC) or http://localhost:8545/ (RPC)
+      --debug               generate debug output
+      --log string          log activity to the named file (default $HOME/ethereal.log).  Logs are written for every action that generates a transaction
+      --network string      network to access (mainnet/ropsten/kovan/rinkeby/goerli/sepolia) (overridden by connection option) (default &quot;mainnet&quot;)
+      --offline             work without a connection to an execution node
+      --quiet               do not generate any output
+      --timeout duration    the time after which a network request will be deemed to have failed.  Increase this if you are running on a error-prone, high-latency or low-bandwidth connection (default 30s)
+      --usbwallets int      number of USB wallets to show (default 1)
+      --verbose             generate additional output where appropriate
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">bash</font> <font color="#50FA7B"><b>blockchain-poster.sh</b></font> <font color="#50FA7B"><b>test.txt</b></font> <font color="#50FA7B"><b>0x117483E977B4EdEe761486F645bca5824b02b1d3</b></font>
+[DEBUG] plain_contents: 0x546573740A506F73742076696120434C4920696E7374656164206F662062726F777365720A416E6F746865722074657374206C696E650A4D6573736167650A
+Waiting for your transaction to be mined...
+Failed to send transaction: failed to send transaction: intrinsic gas too low: needed 22008, allowed 200
+Message sent successfully to 0x117483E977B4EdEe761486F645bca5824b02b1d3! Find details in transaction_id.json
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[!?⇡]</b></font> took <font color="#F1FA8C"><b>5s</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">bash</font> <font color="#50FA7B"><b>blockchain-poster.sh</b></font> <font color="#50FA7B"><b>test.txt</b></font> <font color="#50FA7B"><b>0x117483E977B4EdEe761486F645bca5824b02b1d3</b></font>
+[DEBUG] plain_contents: 0x546573740A506F73742076696120434C4920696E7374656164206F662062726F777365720A416E6F746865722074657374206C696E650A4D6573736167650A
+Waiting for your transaction to be mined...
+Failed to send transaction: failed to send transaction: replacement transaction underpriced
+Message sent successfully to 0x117483E977B4EdEe761486F645bca5824b02b1d3! Find details in transaction_id.json
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[!?⇡]</b></font> took <font color="#F1FA8C"><b>5s</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">bash</font> <font color="#50FA7B"><b>blockchain-poster.sh</b></font> <font color="#50FA7B"><b>test.txt</b></font> <font color="#50FA7B"><b>0x117483E977B4EdEe761486F645bca5824b02b1d3</b></font>
+[DEBUG] plain_contents: 0x546573740A506F73742076696120434C4920696E7374656164206F662062726F777365720A416E6F746865722074657374206C696E650A4D6573736167650A
+Waiting for your transaction to be mined...
+jq: parse error: Invalid string: control characters from U+0000 through U+001F must be escaped at line 2, column 73
+Message sent successfully to 0x117483E977B4EdEe761486F645bca5824b02b1d3! Find details in transaction_id.json
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[!?⇡]</b></font> took <font color="#F1FA8C"><b>10s</b></font> 
+<font color="#50FA7B"><b>❯</b></font> 
+</pre>
