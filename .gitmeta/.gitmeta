@@ -1,12 +1,12 @@
-commit QmThcbh6uSKNy44g8Yz4f79pbk1wHfeAMjJhasJjtWHxsZ
+commit QmbMNknecpCL5A9LPEnsjKPVApwzGYzg2Uo96fDUfe625Z
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 5b2da44d5f0b35d40273b887a8558fb2b5ab10949d59d346c734c2b9f825670a3e9cc5d462d8c7a4f48b4f8f58a558211fa702789ebc5ee749ee3dd001f0474700
+Signature: f0e06a180e598183e6999ce62032c9ad0b09e7fba91dcc2133c922e80ce157e2721c3b1f8a7c40d380d5860fd782eb5fa05c1987259af2a842ddf595c707e62000
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmQfTwrSJNDXe9DhoVioLMSqZmQQ16NeCBvGf6wPAvEkxY
-Commit CID if containing only file hashes: QmWHuY3YVSA5i5oQau1zMFqWdJtfrTQgp5SCL4Yuxn5LUS
+Commit CID if including git's SHA1: Qmcpp4Q2rUPCHMyPxKnyVCWmg3jqF1ZinvyBKZ4ipvQYzU
+Commit CID if containing only file hashes: QmddvG8PhWwLwqh3G3KkjNGpBvFgz4fLe4ySAwz63NZUAr
 
 ------------------------------
 
@@ -17,15 +17,15 @@ Remote URL: https://github.com/Floflis/eth-post-calc.git
 
 ------------------------------
 
-chown -h 1000:1000 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt'
-chmod 0664 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt'
-/usr/bin/touch -hcmd "2024-05-26 02:58:52.4526532000 -0300" 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt'
-/usr/bin/touch -hcad "2024-05-26 02:58:52.4556532000 -0300" 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt'
-chown -h 1000:1000 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt.base64.decoded.webp'
-chmod 0664 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt.base64.decoded.webp'
-/usr/bin/touch -hcmd "2024-05-26 02:59:14.5174591000 -0300" 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt.base64.decoded.webp'
-/usr/bin/touch -hcad "2024-05-26 02:59:17.4724337000 -0300" 'files/bin-base64/IMG_20240207_202001_384.jpg.base64.txt.base64.decoded.webp'
-chown -h 1000:1000 'files/bin-base64/ipfs.log.html5'
-chmod 0664 'files/bin-base64/ipfs.log.html5'
-/usr/bin/touch -hcmd "2024-05-26 03:00:55.3146723000 -0300" 'files/bin-base64/ipfs.log.html5'
-/usr/bin/touch -hcad "2024-05-26 03:02:28.0970742000 -0300" 'files/bin-base64/ipfs.log.html5'
+chown -h 1000:1000 'files/bin-base64/README.md'
+chmod 0664 'files/bin-base64/README.md'
+/usr/bin/touch -hcmd "2024-05-26 03:08:37.7735370000 -0300" 'files/bin-base64/README.md'
+/usr/bin/touch -hcad "2024-05-26 03:09:24.4274118000 -0300" 'files/bin-base64/README.md'
+chown -h 1000:1000 'files/file-list-serializer/README.md'
+chmod 0664 'files/file-list-serializer/README.md'
+/usr/bin/touch -hcmd "2024-05-26 03:12:30.3110152000 -0300" 'files/file-list-serializer/README.md'
+/usr/bin/touch -hcad "2024-05-26 03:14:48.7988035000 -0300" 'files/file-list-serializer/README.md'
+chown -h 1000:1000 'poster/text-hex/README.md'
+chmod 0664 'poster/text-hex/README.md'
+/usr/bin/touch -hcmd "2024-05-26 03:14:38.4388173000 -0300" 'poster/text-hex/README.md'
+/usr/bin/touch -hcad "2024-05-26 03:14:49.1038031000 -0300" 'poster/text-hex/README.md'
