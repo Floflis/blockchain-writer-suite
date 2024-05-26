@@ -27,19 +27,17 @@ USER_ADDRESS=$(jq -r '.eth' /1/config/user.json)
 #tx_id=$(ethereal --connection=https://rpc-mainnet.polygonvigil.com/ transaction send --from=$USER_ADDRESS --to=$destination_address --amount="0" --data $plain_contents)
 echo "[DEBUG] plain_contents: $plain_contents"
 echo "Waiting for your transaction to be mined..."
-#tx_id=$(ethereal --connection="https://polygon-mainnet.public.blastapi.io" --chainid=137 transaction send --from=$USER_ADDRESS --to=$destination_address --amount="0" --data "$plain_contents" --gaslimit 22008 --priority-fee-per-gas "40 Gwei" --debug --wait)
-tx_id=$(ethereal --connection="https://polygon-mainnet.public.blastapi.io" --chainid=137 transaction send --from=$USER_ADDRESS --to=$destination_address --amount="0" --data "$plain_contents" --gaslimit 22008 --priority-fee-per-gas "40 Gwei" --debug --wait)
+tx_id=$(ethereal --connection="https://polygon-mainnet.public.blastapi.io" --chainid=137 transaction send --from=$USER_ADDRESS --to=$destination_address --amount="0" --data "$plain_contents" --gaslimit 22008 --debug --wait)
 #tx_id=$(ethereal transaction send --from=$YOUR_ADDRESS --to=$eth_address --amount="0" --data tmp-content.hex.txt)
 #-
 #rm output.txt
 
 # Store the transaction ID in a JSON file
-echo "[DEBUG] tx_id: $tx_id"
 echo "{\"transaction_id\": \"$tx_id\"}" | jq '.' > transaction_id.json
 
 ## Unlock the local wallet and sign to send
 #ethereal account unlock
 
-echo "Message (probably) sent successfully to $destination_address! (You may) Find details in transaction_id.json"
+echo "Message sent successfully to $destination_address! Find details in transaction_id.json"
 
 exit 0

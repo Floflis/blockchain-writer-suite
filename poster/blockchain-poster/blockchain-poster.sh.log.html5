@@ -1,0 +1,24 @@
+<pre><font color="#42E66C">     __  ,</font>
+<font color="#42E66C"> .--()°&apos;.&apos; </font>Welcome to <font color="#42E66C">Nushell</font>,
+<font color="#42E66C">&apos;|, . ,&apos;   </font>based on the <font color="#42E66C">nu</font> language,
+<font color="#42E66C"> !_-(_\    </font>where all data is structured!
+
+Please join our <font color="#E64747">Discord</font> community at <font color="#E64747">https://discord.gg/NtAbbGn</font>
+Our <font color="#50FA7B"><b>GitHub</b></font> repository is at <font color="#50FA7B"><b>https://github.com/nushell/nushell</b></font>
+Our <font color="#42E66C">Documentation</font> is located at <font color="#42E66C">http://nushell.sh</font>
+<font color="#75D7EC">Tweet</font> us at <font color="#8BE9FD"><b>@nu_shell</b></font>
+
+It&apos;s been this long since <font color="#42E66C">Nushell</font>&apos;s first commit:
+5yr 2wk 3day 13hr 31min 32sec 834ms 831µs 56ns
+
+Startup Time: 83ms 46µs 959ns
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[!⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">bash</font> <font color="#50FA7B"><b>blockchain-poster.sh</b></font> <font color="#50FA7B"><b>test.txt</b></font> <font color="#50FA7B"><b>0x117483E977B4EdEe761486F645bca5824b02b1d3</b></font>
+Message sent successfully to 0x117483E977B4EdEe761486F645bca5824b02b1d3! Find details in transaction_id.json
+
+<font color="#8BE9FD"><b>blockchain-writer-suite/poster/blockchain-poster</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[!?⇡]</b></font> took <font color="#F1FA8C"><b>4s</b></font> 
+<font color="#50FA7B"><b>❯</b></font> 
+
+
+</pre>
