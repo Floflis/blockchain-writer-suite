@@ -1,12 +1,12 @@
-commit QmVftxRXrkC6MdBE2X5SVPdyA3V2kL5L4CquvGaPb6fM4D
+commit QmTZHXeLfkuUU3hAYeJb4B4wdGpf4GnHMuS6KMtggB1JKS
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 9d32b1407655fe37b7d9c05f5412bd122f396660deb4c156d74f040408cce2f414f7ff5f5eadd357b2a4d2c28d87455a62a501d61a7198d6c1278d1194fe2c0c01
+Signature: a2e6309fbaaad743f02231a0b863bd3f3da82de40880dd860596e9be47ea42fd510c66a73c916dbd0a350b384cda98b7cd14305fa79926a9a6c74eb889d1891200
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmczMjnwDZ6fmoSMbJRXCXHiHzwp62hy3vthcvGWe5VVaE
-Commit CID if containing only file hashes: QmXwKkfGKUG6SMWNfM4NHcAxiyLFudEToVadzaCoSUPYN7
+Commit CID if including git's SHA1: QmSnsbZAxVLX62Le7fALYmBK3Bqt33WgmQKgWq7KBkmKfJ
+Commit CID if containing only file hashes: Qmf7vt5CUz1mF9TTViuPiYodS2XScWKnbqp2uUHkn8h7V2
 
 ------------------------------
 
@@ -17,7 +17,43 @@ Remote URL: https://github.com/Floflis/eth-post-calc.git
 
 ------------------------------
 
-chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/git.commit.log.html5'
-chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/git.commit.log.html5'
-/usr/bin/touch -hcmd "2024-05-26 01:50:51.5647732000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/git.commit.log.html5'
-/usr/bin/touch -hcad "2024-05-26 01:53:35.7922050000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/git.commit.log.html5'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/10.svg'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/10.svg'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/10.svg'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.4662122000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/10.svg'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/4.svg'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/4.svg'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/4.svg'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7532059000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/4.svg'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/7.jpg'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/7.jpg'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/7.jpg'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7542058000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/7.jpg'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/8.svg'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/8.svg'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/8.svg'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7552058000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/8.svg'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/9.jpg'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/9.jpg'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/9.jpg'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7562058000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/9.jpg'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/index.html'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/index.html'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/index.html'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7802053000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/index.html'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/manifest.json'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/manifest.json'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/manifest.json'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7892051000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/manifest.json'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_0.css'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_0.css'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_0.css'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7902050000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_0.css'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_2.css'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_2.css'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_2.css'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7912050000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_2.css'
+chown -h 1000:1000 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_3.css'
+chmod 0664 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_3.css'
+/usr/bin/touch -hcmd "2024-05-26 01:17:59.8890000000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_3.css'
+/usr/bin/touch -hcad "2024-05-26 01:53:35.7922050000 -0300" 'files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_3.css'
