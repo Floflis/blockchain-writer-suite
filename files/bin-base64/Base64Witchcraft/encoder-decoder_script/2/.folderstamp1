@@ -1,0 +1,25 @@
+This folder: /home/daniella/Desktop/Base64Witchcraft/encoder-decoder_script/2
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./originalfile.txt
+  Size: 29        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323455     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:21:05.025146253 -0300
+Modify: 2024-05-26 00:41:43.152680806 -0300
+Change: 2024-05-26 01:23:53.334873314 -0300
+ Birth: 2024-05-26 01:23:53.333873349 -0300
+IPFS hash: QmRiLUoefi5qQQhrr588M8pimFjSSGg8zA7PKxaCTJKCiS
+------------------------------
+  File: ./script.sh
+  Size: 973       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323448     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:23:30.798679099 -0300
+Modify: 2024-05-26 01:23:07.509522022 -0300
+Change: 2024-05-26 01:24:05.069457448 -0300
+ Birth: 2024-05-26 01:23:07.505522168 -0300
+IPFS hash: QmYmHS5tDgQStaHPNX5Fg2efSB2mQaeHz5o8BCKz9YCxji
+------------------------------

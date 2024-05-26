@@ -1,0 +1,35 @@
+This folder: /home/daniella/Desktop/Base64Witchcraft/encoder-decoder_script
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 119       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323445     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:21:11.562890554 -0300
+Modify: 2024-05-26 01:21:11.585889657 -0300
+Change: 2024-05-26 01:21:11.585889657 -0300
+ Birth: 2024-05-26 01:21:11.562890554 -0300
+IPFS hash: QmaqntNpNyQYQHvLJzHP7evtvV26FuazoPWyBWSxHcy4h6
+------------------------------
+  File: ./.folderstamp1
+  Size: 1021      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323444     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:21:04.866152486 -0300
+Modify: 2024-05-26 01:21:05.035145861 -0300
+Change: 2024-05-26 01:21:10.562929594 -0300
+ Birth: 2024-05-26 01:21:04.866152486 -0300
+IPFS hash: QmTX7kTuTmWqfpfx7t33M8rNuRUAG3pwWMEF7onKUGb298
+------------------------------
+  File: ./originalfile.txt
+  Size: 29        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322795     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:21:05.025146253 -0300
+Modify: 2024-05-26 00:41:43.152680806 -0300
+Change: 2024-05-26 01:11:41.412279854 -0300
+ Birth: 2024-05-26 01:11:41.393281095 -0300
+IPFS hash: QmRiLUoefi5qQQhrr588M8pimFjSSGg8zA7PKxaCTJKCiS
+------------------------------

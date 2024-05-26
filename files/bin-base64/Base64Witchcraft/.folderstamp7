@@ -1,0 +1,825 @@
+This folder: /home/daniella/Desktop/Base64Witchcraft
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 96        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326702     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:37:08.266819370 -0300
+Modify: 2024-05-26 01:37:08.288819085 -0300
+Change: 2024-05-26 01:37:08.288819085 -0300
+ Birth: 2024-05-26 01:37:08.266819370 -0300
+IPFS hash: QmYigGYdeHFn2WXMehvWLF6ae8sqCaL3iESY3cAvuSSEo5
+------------------------------
+  File: ./decodedfile.txt.sha256
+  Size: 82        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322825     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:44:19.696934533 -0300
+Modify: 2024-05-26 00:43:51.648236953 -0300
+Change: 2024-05-26 00:43:51.648236953 -0300
+ Birth: 2024-05-26 00:43:51.646236975 -0300
+IPFS hash: QmPSb9CqAqav5B7aS6giPJdv4YkG9hAQPUS3BYqKt7mRqG
+------------------------------
+  File: ./.folderstamp3
+  Size: 580       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322821     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:40:41.185416659 -0300
+Modify: 2024-05-26 00:38:46.116866359 -0300
+Change: 2024-05-26 00:38:49.866817207 -0300
+ Birth: 2024-05-26 00:38:45.759871046 -0300
+IPFS hash: QmVuhxktmSwNCyun2EiadcX7ckuypYrhJNdKxZoVnY7NWq
+------------------------------
+  File: ./cli.log.html5
+  Size: 4329      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322868     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:45:37.950111515 -0300
+Modify: 2024-05-26 00:45:37.954111474 -0300
+Change: 2024-05-26 00:45:50.651980586 -0300
+ Birth: 2024-05-26 00:45:37.950111515 -0300
+IPFS hash: QmWw6ZMGJXUFCtquJ255LSYcGhhfa6ntXckRFVrDT17ncN
+------------------------------
+  File: ./.folderstamp5
+  Size: 4351      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322824     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:42:07.996393504 -0300
+Modify: 2024-05-26 00:41:51.428584632 -0300
+Change: 2024-05-26 00:41:54.867544807 -0300
+ Birth: 2024-05-26 00:41:50.170599221 -0300
+IPFS hash: QmY1CVPVCWYa47dBkaCGswQuEq88VyAztPchpubDBPQtUr
+------------------------------
+  File: ./.folderstamp6
+  Size: 5779      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322857     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:45:30.490188743 -0300
+Modify: 2024-05-26 00:45:31.349179838 -0300
+Change: 2024-05-26 00:45:35.778133975 -0300
+ Birth: 2024-05-26 00:45:30.278190941 -0300
+IPFS hash: QmUXiKDbcp4wf8Pj66Kd2u6CsrEo6mUNVVfgW37Z7QnV6n
+------------------------------
+  File: ./encoder-decoder_script/.folderstamp3
+  Size: 1957      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323451     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:45.714035729 -0300
+Modify: 2024-05-26 01:22:28.973940865 -0300
+Change: 2024-05-26 01:22:33.680765895 -0300
+ Birth: 2024-05-26 01:22:28.671952110 -0300
+IPFS hash: QmbKD6nGviBexqhKLzkmzS1CTYKEEH8vtdYo3QnsFnD9ey
+------------------------------
+  File: ./encoder-decoder_script/.folderstamp5
+  Size: 7320      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,70	Inode: 9308406     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:45.641038258 -0300
+Modify: 2024-05-26 01:24:46.703001485 -0300
+Change: 2024-05-26 01:24:50.524869300 -0300
+ Birth: 2024-05-26 01:24:45.546041548 -0300
+IPFS hash: Qme1tWvw5LdEZ9hP7mryWvSGXNizDUBdt8jSUopXr3VKVj
+------------------------------
+  File: ./encoder-decoder_script/2/image.jpg
+  Size: 84077     	Blocks: 168        IO Block: 4096   regular file
+Device: 8,70	Inode: 9323410     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:27:18.133930972 -0300
+Modify: 2024-01-22 01:15:28.000000000 -0300
+Change: 2024-05-26 01:27:14.010064922 -0300
+ Birth: 2024-05-26 01:27:04.394378078 -0300
+IPFS hash: QmP1QqAbBL2e9MXGBLDKWbxu7vf7Fuz8CHgXLNAASebHr6
+------------------------------
+  File: ./encoder-decoder_script/2/image_with_uri.base64
+  Size: 113603    	Blocks: 224        IO Block: 4096   regular file
+Device: 8,70	Inode: 9323455     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:27:18.144930615 -0300
+Modify: 2024-05-26 01:27:18.141930713 -0300
+Change: 2024-05-26 01:27:18.141930713 -0300
+ Birth: 2024-05-26 01:27:18.138930810 -0300
+IPFS hash: QmauHQHd6R1YMftV8Xz5FETz227bjXV9iLmhM1KjzmprBz
+------------------------------
+  File: ./encoder-decoder_script/2/.folderstamp3
+  Size: 1555      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323452     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:27:06.993293323 -0300
+Modify: 2024-05-26 01:27:07.227285698 -0300
+Change: 2024-05-26 01:27:10.761170601 -0300
+ Birth: 2024-05-26 01:27:06.993293323 -0300
+IPFS hash: QmX6AQ2TsW3Ei1iHjx3aWcdiR795ZESmeYX9dDEhi7CXmo
+------------------------------
+  File: ./encoder-decoder_script/2/script.sh
+  Size: 973       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323448     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:33.084474475 -0300
+Modify: 2024-05-26 01:23:07.509522022 -0300
+Change: 2024-05-26 01:30:39.333619442 -0300
+ Birth: 2024-05-26 01:23:07.505522168 -0300
+IPFS hash: QmYmHS5tDgQStaHPNX5Fg2efSB2mQaeHz5o8BCKz9YCxji
+------------------------------
+  File: ./encoder-decoder_script/2/cli.log.html5
+  Size: 115600    	Blocks: 232        IO Block: 4096   regular file
+Device: 8,70	Inode: 9323461     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:28:25.351775859 -0300
+Modify: 2024-05-26 01:28:25.404774180 -0300
+Change: 2024-05-26 01:28:31.377585133 -0300
+ Birth: 2024-05-26 01:28:25.351775859 -0300
+IPFS hash: QmRSrX7rAXi9PzugbhNrwNpkLbUpz9KsJ76DKqZqydeSXq
+------------------------------
+  File: ./encoder-decoder_script/2/decoded_image.jpg
+  Size: 84077     	Blocks: 168        IO Block: 4096   regular file
+Device: 8,70	Inode: 9323458     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:27:36.434339037 -0300
+Modify: 2024-05-26 01:27:18.163929999 -0300
+Change: 2024-05-26 01:27:18.163929999 -0300
+ Birth: 2024-05-26 01:27:18.160930096 -0300
+IPFS hash: QmP1QqAbBL2e9MXGBLDKWbxu7vf7Fuz8CHgXLNAASebHr6
+------------------------------
+  File: ./encoder-decoder_script/2/.folderstamp4
+  Size: 2494      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323453     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:27:59.067612420 -0300
+Modify: 2024-05-26 01:27:53.695784342 -0300
+Change: 2024-05-26 01:27:57.417665191 -0300
+ Birth: 2024-05-26 01:27:53.313796580 -0300
+IPFS hash: QmQxgZyAPxBDyX6LdJ27XZ7fMtZXM1g7k8XQe1C26zaT88
+------------------------------
+  File: ./encoder-decoder_script/2/.folderstamp1
+  Size: 1066      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9308386     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:45.866030465 -0300
+Modify: 2024-05-26 01:24:33.094474126 -0300
+Change: 2024-05-26 01:24:39.308257930 -0300
+ Birth: 2024-05-26 01:24:32.916480329 -0300
+IPFS hash: QmaEGpUtNQmVjpjcgJiysuSjrGvokfGxfXiMomqhFRGkeF
+------------------------------
+  File: ./encoder-decoder_script/2/.folderstamp2
+  Size: 2507      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9321612     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:26:17.755913890 -0300
+Modify: 2024-05-26 01:26:18.124901624 -0300
+Change: 2024-05-26 01:26:21.331795107 -0300
+ Birth: 2024-05-26 01:26:17.755913890 -0300
+IPFS hash: QmRfSciEQ2QaL7iZyCsWp3rYsTadpfnBJreiDhPh7dNY52
+------------------------------
+  File: ./encoder-decoder_script/1/decodedfile.txt.sha256
+  Size: 82        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322976     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:31:27.058176990 -0300
+Modify: 2024-05-26 01:31:27.051177201 -0300
+Change: 2024-05-26 01:31:27.051177201 -0300
+ Birth: 2024-05-26 01:31:27.049177261 -0300
+IPFS hash: QmPSb9CqAqav5B7aS6giPJdv4YkG9hAQPUS3BYqKt7mRqG
+------------------------------
+  File: ./encoder-decoder_script/1/.folderstamp3
+  Size: 2943      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9308648     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:31:16.395497717 -0300
+Modify: 2024-05-26 01:31:16.752486965 -0300
+Change: 2024-05-26 01:31:19.509403963 -0300
+ Birth: 2024-05-26 01:31:16.300500579 -0300
+IPFS hash: QmU3zYR1kqvQJvwYVGLi7T3hL8ZtLgTaNQU9bXAZFAdEtp
+------------------------------
+  File: ./encoder-decoder_script/1/script.sh
+  Size: 753       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323484     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:31:16.462495699 -0300
+Modify: 2024-05-26 01:30:56.438100389 -0300
+Change: 2024-05-26 01:31:01.294953433 -0300
+ Birth: 2024-05-26 01:30:56.435100480 -0300
+IPFS hash: QmRexXHX96RcFB8gzjkp1gUK55vfNCfnevnMYEg12NJnYw
+------------------------------
+  File: ./encoder-decoder_script/1/cli.log.html5
+  Size: 2402      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323462     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:32:01.743139529 -0300
+Modify: 2024-05-26 01:32:01.747139410 -0300
+Change: 2024-05-26 01:32:10.964865148 -0300
+ Birth: 2024-05-26 01:32:01.743139529 -0300
+IPFS hash: QmXBS8xWUBgnhsYZhsyXHEsUgdFwjGaCxizYqgi5Gjfh62
+------------------------------
+  File: ./encoder-decoder_script/1/encodedfile.txt
+  Size: 41        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9308659     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:31:27.048177291 -0300
+Modify: 2024-05-26 01:31:27.039177561 -0300
+Change: 2024-05-26 01:31:27.039177561 -0300
+ Birth: 2024-05-26 01:31:27.037177621 -0300
+IPFS hash: QmTwKZitJwpbk22o7os7w36hef1KCZPnsraJnUvQareNwL
+------------------------------
+  File: ./encoder-decoder_script/1/originalfile.txt.sha256
+  Size: 83        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9309205     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:31:27.055177080 -0300
+Modify: 2024-05-26 01:31:27.044177411 -0300
+Change: 2024-05-26 01:31:27.044177411 -0300
+ Birth: 2024-05-26 01:31:27.040177531 -0300
+IPFS hash: QmV72akLFeYoVHe9kpGHj1ceu5gSSk38ryEGXMf7qWZTQL
+------------------------------
+  File: ./encoder-decoder_script/1/decodedfile.txt
+  Size: 29        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9310686     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:31:27.051177201 -0300
+Modify: 2024-05-26 01:31:27.048177291 -0300
+Change: 2024-05-26 01:31:27.048177291 -0300
+ Birth: 2024-05-26 01:31:27.046177351 -0300
+IPFS hash: QmRiLUoefi5qQQhrr588M8pimFjSSGg8zA7PKxaCTJKCiS
+------------------------------
+  File: ./encoder-decoder_script/1/.folderstamp1
+  Size: 1066      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9308372     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:46.079023088 -0300
+Modify: 2024-05-26 01:24:27.179680529 -0300
+Change: 2024-05-26 01:24:30.092578806 -0300
+ Birth: 2024-05-26 01:24:26.978687552 -0300
+IPFS hash: QmXCPhraHsYS5FWen9R3rDUswVinBgZiy5KcfzL4kmz136
+------------------------------
+  File: ./encoder-decoder_script/1/script-0.sh
+  Size: 614       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323454     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:30:48.554339334 -0300
+Modify: 2024-05-26 01:22:41.909461135 -0300
+Change: 2024-05-26 01:30:45.830422008 -0300
+ Birth: 2024-05-26 01:22:41.907461208 -0300
+IPFS hash: QmX5ASw2HKivBBRtLrYxGXZfk73H11LvUVp3TCK1e1oUSC
+------------------------------
+  File: ./encoder-decoder_script/1/originalfile.txt
+  Size: 29        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322795     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:27.093683533 -0300
+Modify: 2024-05-26 00:41:43.152680806 -0300
+Change: 2024-05-26 01:23:56.749752035 -0300
+ Birth: 2024-05-26 01:11:41.393281095 -0300
+IPFS hash: QmRiLUoefi5qQQhrr588M8pimFjSSGg8zA7PKxaCTJKCiS
+------------------------------
+  File: ./encoder-decoder_script/1/.folderstamp2
+  Size: 3455      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9308396     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:31:16.743487236 -0300
+Modify: 2024-05-26 01:30:48.640336725 -0300
+Change: 2024-05-26 01:30:51.678244593 -0300
+ Birth: 2024-05-26 01:30:48.109352835 -0300
+IPFS hash: QmfNfdpPbwqqZm1775t6RRi7i7E1oRzwQ5i1KM7qsXjgdb
+------------------------------
+  File: ./encoder-decoder_script/.folderstamp4
+  Size: 1945      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323450     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:46.226017999 -0300
+Modify: 2024-05-26 01:23:30.952673559 -0300
+Change: 2024-05-26 01:23:35.015527597 -0300
+ Birth: 2024-05-26 01:23:30.634684998 -0300
+IPFS hash: QmZTrZ93sPPFgmwWkRFdWaydk1Ks3W166YytgjiDDb8Gdt
+------------------------------
+  File: ./encoder-decoder_script/.folderstamp1
+  Size: 1021      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323444     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:21:11.716884544 -0300
+Modify: 2024-05-26 01:21:05.035145861 -0300
+Change: 2024-05-26 01:21:10.562929594 -0300
+ Birth: 2024-05-26 01:21:04.866152486 -0300
+IPFS hash: QmTX7kTuTmWqfpfx7t33M8rNuRUAG3pwWMEF7onKUGb298
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/.folderstamp3
+  Size: 3081      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323241     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:18.265133270 -0300
+Modify: 2024-05-26 01:34:07.979431243 -0300
+Change: 2024-05-26 01:34:11.180338452 -0300
+ Birth: 2024-05-26 01:34:07.523444467 -0300
+IPFS hash: QmesseZ3s4PadBh58Rj3XPGAnQbUMMDVBpCx8m3Xq7fMyK
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/.folderstamp5.log.html5
+  Size: 1585      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9350851     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:36:50.668044041 -0300
+Modify: 2024-05-26 01:35:18.745104240 -0300
+Change: 2024-05-26 01:35:22.859061146 -0300
+ Birth: 2024-05-26 01:35:18.743104261 -0300
+IPFS hash: QmUxEHB2q7HfNLgJh2u9XyiMcasRPiADiMaE1YSiwsMFxm
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/.folderstamp5
+  Size: 19587     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,70	Inode: 9350816     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:36:50.732043236 -0300
+Modify: 2024-05-26 01:34:55.742337103 -0300
+Change: 2024-05-26 01:35:01.817276958 -0300
+ Birth: 2024-05-26 01:34:52.994363987 -0300
+IPFS hash: QmRNQ7Xvo611ZxMDgQsetdbTiPh1JwacU4wvkUhidrE6GW
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/.folderstamp6
+  Size: 14266     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,70	Inode: 9326671     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:36:50.537045688 -0300
+Modify: 2024-05-26 01:36:52.328023129 -0300
+Change: 2024-05-26 01:36:57.835953322 -0300
+ Birth: 2024-05-26 01:36:50.459046669 -0300
+IPFS hash: QmSJAzPQdWSLQGdknJB8FghvLGxHHe328MUy25J5bPSJSN
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/index.html
+  Size: 151946    	Blocks: 304        IO Block: 4096   regular file
+Device: 8,70	Inode: 9327706     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.235361635 -0300
+Modify: 2024-05-26 01:32:56.118000000 -0300
+Change: 2024-05-26 01:34:39.497519965 -0300
+ Birth: 2024-05-26 01:34:39.496519994 -0300
+IPFS hash: QmQvNZMJiTKMeEMVtmHYJYngv99KDrGJEoQiTNovMFXUbH
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/manifest.json
+  Size: 433       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9327727     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.305360952 -0300
+Modify: 2024-05-26 01:32:56.118000000 -0300
+Change: 2024-05-26 01:34:39.497519965 -0300
+ Birth: 2024-05-26 01:34:39.497519965 -0300
+IPFS hash: QmP3CwLkj7tNyG6nhchXKNqrZ2DECx1Nk2u4EAX15g8rAV
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_4.css
+  Size: 41259     	Blocks: 88         IO Block: 4096   regular file
+Device: 8,70	Inode: 9327987     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.532358737 -0300
+Modify: 2024-05-26 01:32:56.118000000 -0300
+Change: 2024-05-26 01:34:39.498519936 -0300
+ Birth: 2024-05-26 01:34:39.497519965 -0300
+IPFS hash: QmPKLEw5aaoHp2yhxEHYFvTpArEMgnKiacsHJRuiFLcF4C
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/images/2.png
+  Size: 1288      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9327992     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.602358054 -0300
+Modify: 2024-05-26 01:32:56.118000000 -0300
+Change: 2024-05-26 01:34:39.498519936 -0300
+ Birth: 2024-05-26 01:34:39.498519936 -0300
+IPFS hash: QmXf34n6tq8qTABCHPkC2GFndnFzMjohT1aa2g1UQAbTsa
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/images/3.jpg
+  Size: 3941      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9328020     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.670357390 -0300
+Modify: 2024-05-26 01:32:56.118000000 -0300
+Change: 2024-05-26 01:34:39.498519936 -0300
+ Birth: 2024-05-26 01:34:39.498519936 -0300
+IPFS hash: QmVsg5gFEFVDq3djVcWZfCTJ8pRQW79LeXXUwn48Lky2Pm
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_3.css
+  Size: 728       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9327806     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.810356024 -0300
+Modify: 2024-05-26 01:32:56.118000000 -0300
+Change: 2024-05-26 01:34:39.497519965 -0300
+ Birth: 2024-05-26 01:34:39.497519965 -0300
+IPFS hash: QmetqD98LspB1eeGZsGxX64GnCEXEDfLaMDq3SfwkfG379
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/index.html
+  Size: 112964    	Blocks: 224        IO Block: 4096   regular file
+Device: 8,70	Inode: 9328036     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.879355350 -0300
+Modify: 2024-05-26 01:20:13.450000000 -0300
+Change: 2024-05-26 01:34:46.240429187 -0300
+ Birth: 2024-05-26 01:34:46.239429197 -0300
+IPFS hash: QmSVLaEUZNvgAsJcVsLZA8FdVPXqvRSBGwgmquVtUvBni5
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/manifest.json
+  Size: 433       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9328384     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:53.948354677 -0300
+Modify: 2024-05-26 01:20:13.450000000 -0300
+Change: 2024-05-26 01:34:46.240429187 -0300
+ Birth: 2024-05-26 01:34:46.240429187 -0300
+IPFS hash: QmYK68Q3MhB6Xm2QUMDbJVqc9nJyxo8YzcaGtcYejAC3DF
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_4.css
+  Size: 41820     	Blocks: 88         IO Block: 4096   regular file
+Device: 8,70	Inode: 9350660     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.159352614 -0300
+Modify: 2024-05-26 01:20:13.450000000 -0300
+Change: 2024-05-26 01:34:46.244429149 -0300
+ Birth: 2024-05-26 01:34:46.244429149 -0300
+IPFS hash: QmYWk3QSMaWN22gwoLiyC2YDJ44BgXtQ1D7SpeJyWWDYQb
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/images/3.jpg
+  Size: 3941      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9350809     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.300351234 -0300
+Modify: 2024-05-26 01:20:13.450000000 -0300
+Change: 2024-05-26 01:34:46.244429149 -0300
+ Birth: 2024-05-26 01:34:46.244429149 -0300
+IPFS hash: QmVsg5gFEFVDq3djVcWZfCTJ8pRQW79LeXXUwn48Lky2Pm
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_3.css
+  Size: 728       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9350652     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.446349805 -0300
+Modify: 2024-05-26 01:20:13.450000000 -0300
+Change: 2024-05-26 01:34:46.244429149 -0300
+ Birth: 2024-05-26 01:34:46.244429149 -0300
+IPFS hash: QmetqD98LspB1eeGZsGxX64GnCEXEDfLaMDq3SfwkfG379
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/.folderstamp4
+  Size: 3547      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323443     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.524349042 -0300
+Modify: 2024-05-26 01:34:18.634122591 -0300
+Change: 2024-05-26 01:34:22.668005895 -0300
+ Birth: 2024-05-26 01:34:18.106137871 -0300
+IPFS hash: QmWQx8SCwJgcdXb3NrZMT77RPEdRvb8DPmok8Pi9GFmwNp
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/index.html
+  Size: 211533    	Blocks: 416        IO Block: 4096   regular file
+Device: 8,70	Inode: 9326586     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.591348386 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.394782609 -0300
+ Birth: 2024-05-26 01:34:30.392782667 -0300
+IPFS hash: QmfFKYGAaqwrN9QfqiiGPT2DTD9Z8NY8e6m4eu4DyQRMXz
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/manifest.json
+  Size: 1266      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326652     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.660347711 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.394782609 -0300
+ Birth: 2024-05-26 01:34:30.394782609 -0300
+IPFS hash: QmPJ3myXF5q5sKAnf7UUr9XV95MM21Kp7FzCoLEZ6RdDLA
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_0.css
+  Size: 42        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326855     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.796346380 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: QmTLP1eFyheJEV1zhZAauqYFQBzrMrJBkgQUxuoKi9Jbpp
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/7.jpg
+  Size: 1017      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326891     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.863345724 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: QmRrxrGJiQ92yh917RZ9JKWnuoXQ8mzhXLUNKu97Vzsyno
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/8.svg
+  Size: 709       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326879     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.931345059 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: QmfAi7zhsKJatXkDFPmV3nuLbqjwZUwGx4iqkA29Y66JbC
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/9.jpg
+  Size: 2310      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326906     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:54.997344413 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: Qmcm5BG8NmVWwAn6NF8XYKAdmbP6PKTYuM1zhogqsYXLxC
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/10.svg
+  Size: 5413      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,70	Inode: 9326881     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:55.064343756 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: QmQJHDz1tWe4vMLmMyQFDZBDA1fxRPaLueTCPUd6B9QyCp
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/images/4.svg
+  Size: 1144      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326874     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:55.131343098 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: QmWAwAouzHXA8MraPepxavgDiPNpDThygCVQ4mGT92SS74
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_2.css
+  Size: 759       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326868     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:55.511339369 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: QmZFuMPuJHeBsU3iCj6UEQFxkdWee2D7er1T3zBxh6qz4d
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/Gemini (26_05_2024 01_17_58)/stylesheet_3.css
+  Size: 39        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9326873     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:34:55.583338663 -0300
+Modify: 2024-05-26 01:17:59.889000000 -0300
+Change: 2024-05-26 01:34:30.396782552 -0300
+ Birth: 2024-05-26 01:34:30.396782552 -0300
+IPFS hash: QmNsSiNb6igEEdoR5UtLaxJDgHX3NSGfhs19eQvFfJfTf8
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/.folderstamp1
+  Size: 1154      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323446     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:46.550006782 -0300
+Modify: 2024-05-26 01:21:25.013367843 -0300
+Change: 2024-05-26 01:21:28.305240597 -0300
+ Birth: 2024-05-26 01:21:24.833374810 -0300
+IPFS hash: QmbKFtcm5ye3zGUy1nFPish2fRRChB3Qnv5vBUeJ1tWK57
+------------------------------
+  File: ./encoder-decoder_script/AIBrainstorming/.folderstamp2
+  Size: 1144      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323447     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:46.621004324 -0300
+Modify: 2024-05-26 01:21:45.346586029 -0300
+Change: 2024-05-26 01:21:48.649459961 -0300
+ Birth: 2024-05-26 01:21:45.169592791 -0300
+IPFS hash: QmZHM5UUswjHxKArzL3YFj3tAZVRPMha6N4qqXihA77aAx
+------------------------------
+  File: ./encoder-decoder_script/.folderstamp2
+  Size: 1534      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9323445     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:24:46.693001832 -0300
+Modify: 2024-05-26 01:21:11.798881343 -0300
+Change: 2024-05-26 01:21:14.754766105 -0300
+ Birth: 2024-05-26 01:21:11.562890554 -0300
+IPFS hash: QmcZX7CdSGmkbpxtLSww57mYev8BqREPLJTpZe6qVxmXK5
+------------------------------
+  File: ./encodedfile.txt
+  Size: 41        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322819     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:43:10.836684675 -0300
+Modify: 2024-05-26 00:42:54.371868032 -0300
+Change: 2024-05-26 00:42:54.371868032 -0300
+ Birth: 2024-05-26 00:39:19.180437649 -0300
+IPFS hash: QmTwKZitJwpbk22o7os7w36hef1KCZPnsraJnUvQareNwL
+------------------------------
+  File: ./originalfile.txt.sha256
+  Size: 83        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322828     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:44:19.696934533 -0300
+Modify: 2024-05-26 00:43:03.107770545 -0300
+Change: 2024-05-26 00:43:03.107770545 -0300
+ Birth: 2024-05-26 00:40:27.495583180 -0300
+IPFS hash: QmV72akLFeYoVHe9kpGHj1ceu5gSSk38ryEGXMf7qWZTQL
+------------------------------
+  File: ./test/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt
+  Size: 71021     	Blocks: 144        IO Block: 4096   regular file
+Device: 8,70	Inode: 9322856     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:57:05.746700996 -0300
+Modify: 2024-05-26 00:56:55.169792741 -0300
+Change: 2024-05-26 00:56:55.177792672 -0300
+ Birth: 2024-05-26 00:56:55.121793158 -0300
+IPFS hash: QmZoD5WNmNyMSyWf8sdsE2wX1bp12Zz1EUH2HwXeDZt1xr
+------------------------------
+  File: ./test/.folderstamp3
+  Size: 3030      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322891     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:57:05.824700320 -0300
+Modify: 2024-05-26 00:56:33.469981382 -0300
+Change: 2024-05-26 00:56:37.965942251 -0300
+ Birth: 2024-05-26 00:56:32.992985535 -0300
+IPFS hash: QmeLW1iqLhQgnHEa9emF8FiR2PU5a5CALgtqaY7Bm9HoHU
+------------------------------
+  File: ./test/discard/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt
+  Size: 71044     	Blocks: 144        IO Block: 4096   regular file
+Device: 8,70	Inode: 9322906     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:57:05.898699678 -0300
+Modify: 2024-04-04 23:53:11.971829291 -0300
+Change: 2024-05-26 00:56:42.864899641 -0300
+ Birth: 2024-05-26 00:56:42.863899650 -0300
+IPFS hash: QmPyTsDS9LyKqJa4UcwqnXCGHToXMSYMMZEaHbNQ1aKtdi
+------------------------------
+  File: ./test/discard/digitalizar3.svg.screenshot.cropped.jpg
+  Size: 3         	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322872     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:56:42.016907014 -0300
+Modify: 2024-05-26 00:55:52.418339849 -0300
+Change: 2024-05-26 00:56:39.488929002 -0300
+ Birth: 2024-05-26 00:55:52.395340051 -0300
+IPFS hash: Qmca9hTVYC8gkWLnchYBc8MTXNdSq5zotYDr4qVXRNr6Yr
+------------------------------
+  File: ./test/discard/digitalizar3.svg.screenshot.cropped.jpg.base64.txt
+  Size: 60144     	Blocks: 120        IO Block: 4096   regular file
+Device: 8,70	Inode: 9322905     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:57:06.043698422 -0300
+Modify: 2024-04-04 23:51:45.305729751 -0300
+Change: 2024-05-26 00:56:42.863899650 -0300
+ Birth: 2024-05-26 00:56:42.857899702 -0300
+IPFS hash: QmUWTRBs1VsJtGpmLgeU9XLjUPaE6pTbXYRY1D8ZXL96fY
+------------------------------
+  File: ./test/cli.log.html5
+  Size: 2316      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322919     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:00:25.658988400 -0300
+Modify: 2024-05-26 01:00:25.681988205 -0300
+Change: 2024-05-26 01:00:35.192382400 -0300
+ Birth: 2024-05-26 01:00:25.658988400 -0300
+IPFS hash: QmdAhfuLqUQ61cVceSgFEdB6LLAJgrZRbkDE4tW5YUEbCu
+------------------------------
+  File: ./test/original/cli.log.html5
+  Size: 3894      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322920     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:00:14.810080421 -0300
+Modify: 2024-05-26 00:59:45.556329025 -0300
+Change: 2024-05-26 00:59:50.974282929 -0300
+ Birth: 2024-05-26 00:59:45.552329059 -0300
+IPFS hash: QmWvf5U8fhR7XnnoTqBHtbbZr1PtY3W86BzKpzmgr4pyuj
+------------------------------
+  File: ./test/original/digitalizar3.svg.screenshot.cropped.jpg
+  Size: 45090     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322616     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:58:25.765010892 -0300
+Modify: 2024-04-04 23:38:39.273385343 -0300
+Change: 2024-05-26 00:58:25.503013140 -0300
+ Birth: 2024-05-26 00:58:25.499013175 -0300
+IPFS hash: Qmf5TbfaLbxSBdpsdBLCzcG7GR9RNSL4NetqNRqxj5jgse
+------------------------------
+  File: ./test/original/digitalizar00023.svg.screenshot.cropped.jpg
+  Size: 53264     	Blocks: 112        IO Block: 4096   regular file
+Device: 8,70	Inode: 9322626     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:58:25.765010892 -0300
+Modify: 2024-04-04 23:39:51.383282934 -0300
+Change: 2024-05-26 00:58:25.506013115 -0300
+ Birth: 2024-05-26 00:58:25.503013140 -0300
+IPFS hash: QmXSJCv58LTtRL7fiwJH8Pkj6yDRzAif2BwttW8rp1tjvX
+------------------------------
+  File: ./test/.folderstamp5
+  Size: 7991      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322871     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:00:37.186043513 -0300
+Modify: 2024-05-26 01:00:15.500074566 -0300
+Change: 2024-05-26 01:00:19.056044395 -0300
+ Birth: 2024-05-26 01:00:13.576090894 -0300
+IPFS hash: QmPMNpTPrZcMGRH3ggnHX6KxrxQMnvKbouCQCx2KfgLxzz
+------------------------------
+  File: ./test/digitalizar3.svg.screenshot.cropped.jpg
+  Size: 45090     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322615     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:57:16.006612123 -0300
+Modify: 2024-05-26 00:57:12.048646393 -0300
+Change: 2024-05-26 00:57:12.048646393 -0300
+ Birth: 2024-05-26 00:57:12.043646437 -0300
+IPFS hash: Qmf5TbfaLbxSBdpsdBLCzcG7GR9RNSL4NetqNRqxj5jgse
+------------------------------
+  File: ./test/.folderstamp4
+  Size: 4545      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322909     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 01:00:15.124077756 -0300
+Modify: 2024-05-26 00:57:06.289696289 -0300
+Change: 2024-05-26 00:57:09.487668577 -0300
+ Birth: 2024-05-26 00:57:04.958707827 -0300
+IPFS hash: QmdwD8XKB6TTrHZ9LCzo5q1oCnH9svy6YMtq44Mv8TwpVH
+------------------------------
+  File: ./test/digitalizar3.svg.screenshot.cropped.jpg.base64.txt
+  Size: 60121     	Blocks: 120        IO Block: 4096   regular file
+Device: 8,70	Inode: 9322908     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:57:06.118697772 -0300
+Modify: 2024-05-26 00:56:49.828839119 -0300
+Change: 2024-05-26 00:56:49.836839050 -0300
+ Birth: 2024-05-26 00:56:49.741839875 -0300
+IPFS hash: QmUkYQN8PTwEccVxDrYB5DvpCBeGg6mqj7BZa6bvT6SMiL
+------------------------------
+  File: ./test/.folderstamp1
+  Size: 2088      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322887     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:56:33.387982096 -0300
+Modify: 2024-05-26 00:56:20.619093368 -0300
+Change: 2024-05-26 00:56:24.106062961 -0300
+ Birth: 2024-05-26 00:56:19.763100834 -0300
+IPFS hash: QmPuDdJxQHabQo6afExM2k8yHHKNWybPXiwZySyzVJevT6
+------------------------------
+  File: ./test/digitalizar00023.svg.screenshot.cropped.jpg
+  Size: 53264     	Blocks: 112        IO Block: 4096   regular file
+Device: 8,70	Inode: 9322880     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:57:47.472340292 -0300
+Modify: 2024-05-26 00:57:45.213359771 -0300
+Change: 2024-05-26 00:57:45.213359771 -0300
+ Birth: 2024-05-26 00:57:45.208359814 -0300
+IPFS hash: QmXSJCv58LTtRL7fiwJH8Pkj6yDRzAif2BwttW8rp1tjvX
+------------------------------
+  File: ./test/.folderstamp2
+  Size: 2038      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322888     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:56:33.458981478 -0300
+Modify: 2024-05-26 00:56:27.287035236 -0300
+Change: 2024-05-26 00:56:30.174010084 -0300
+ Birth: 2024-05-26 00:56:26.709040273 -0300
+IPFS hash: QmNgwpbRFKz896wTf59Jy5iBX4biJoPW11qqzumUH663Rf
+------------------------------
+  File: ./decodedfile.txt
+  Size: 29        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322831     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:43:51.648236953 -0300
+Modify: 2024-05-26 00:43:10.836684675 -0300
+Change: 2024-05-26 00:43:10.836684675 -0300
+ Birth: 2024-05-26 00:41:13.104034075 -0300
+IPFS hash: QmRiLUoefi5qQQhrr588M8pimFjSSGg8zA7PKxaCTJKCiS
+------------------------------
+  File: ./.folderstamp4
+  Size: 3413      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322829     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:41:51.195587333 -0300
+Modify: 2024-05-26 00:40:41.610411514 -0300
+Change: 2024-05-26 00:40:44.858372235 -0300
+ Birth: 2024-05-26 00:40:40.206428518 -0300
+IPFS hash: QmR5zVVCArKzJS17iTqFnoiJ5XH7WPSr9AA2ANS1ejppNC
+------------------------------
+  File: ./.folderstamp1
+  Size: 566       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322812     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:40:41.451413439 -0300
+Modify: 2024-05-26 00:37:22.738996996 -0300
+Change: 2024-05-26 00:37:27.653928233 -0300
+ Birth: 2024-05-26 00:37:22.215004344 -0300
+IPFS hash: Qma6qzWVekEPD3E9SYbipJqKoBu1wnE4CCoj4rDUupdJ81
+------------------------------
+  File: ./originalfile.txt
+  Size: 29        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 9322853     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:41:51.338585676 -0300
+Modify: 2024-05-26 00:41:43.152680806 -0300
+Change: 2024-05-26 00:41:43.158680736 -0300
+ Birth: 2024-05-26 00:41:43.144680899 -0300
+IPFS hash: QmRiLUoefi5qQQhrr588M8pimFjSSGg8zA7PKxaCTJKCiS
+------------------------------
+  File: ./.folderstamp2
+  Size: 13587     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,70	Inode: 9322597     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 00:40:41.598411659 -0300
+Modify: 2024-05-26 00:37:36.768801442 -0300
+Change: 2024-05-26 00:37:46.178671533 -0300
+ Birth: 2024-05-26 00:37:43.465708886 -0300
+IPFS hash: QmXHrae6pfd8Ve4hwUReJ3Jy8EyFw6wB1Tiob2XVhCJbPr
+------------------------------
