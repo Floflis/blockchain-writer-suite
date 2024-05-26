@@ -1,3 +1,0 @@
-- Decode: instead of "$1.base64.decoded.${mime_type#*/}" at line 42, read directly from the input file's prefix (should use sed too then)
-- line 30: use better sed than 's/^data:@file\/[^,]*,//', now not anymore forcing "file", as it may vary (such as image, audio)
-in both seds, use smart detection about what comes after "data:@" but without reading the whole Base64 that comes after.
