@@ -1,0 +1,155 @@
+This folder: /media/daniella/B/git/Floflis/Floflis/Utilities/blockchain-writer-suite/files/bin-base64/Legacy/AIBrainstorming/2
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 170       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2618364     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:03:57.446593500 -0300
+Modify: 2024-05-26 03:03:57.475593300 -0300
+Change: 2024-05-26 03:03:57.475593300 -0300
+ Birth: 2024-05-26 03:03:57.446593500 -0300
+IPFS hash: QmUP5WrPkUh4eENHzL78JnDocvuUi9XQjt6jxwZiogWs28
+------------------------------
+  File: ./.folderstamp1
+  Size: 4430      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,36	Inode: 2501041     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:02:27.724076400 -0300
+Modify: 2024-05-26 03:02:28.386072600 -0300
+Change: 2024-05-26 03:03:32.289720300 -0300
+ Birth: 2024-05-26 03:02:27.724076400 -0300
+IPFS hash: QmabPv9kxkGvUXnGSLP6bMdZqcsawZhpSMgNdmRCRC7faD
+------------------------------
+  File: ./.folderstamp2
+  Size: 3958      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2587180     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:02:59.904893200 -0300
+Modify: 2024-05-26 03:03:00.578889500 -0300
+Change: 2024-05-26 03:03:32.292720300 -0300
+ Birth: 2024-05-26 03:02:59.904893200 -0300
+IPFS hash: QmTmJCRtDJzvcQYEkN8n89CULWw3qFnaQXkw9JmE8g5Z7f
+------------------------------
+  File: ./.folderstamp3
+  Size: 665       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2805932     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:03:37.121695500 -0300
+Modify: 2024-05-26 03:03:37.276694700 -0300
+Change: 2024-05-26 03:03:42.702667000 -0300
+ Birth: 2024-05-26 03:03:37.121695500 -0300
+IPFS hash: QmPN5xaeEyrHbSXrUGqXkGdQMNDoAJKziRSP6ouz16aXdu
+------------------------------
+  File: ./.folderstamp4
+  Size: 1103      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2587181     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:03:49.865631000 -0300
+Modify: 2024-05-26 03:03:50.037630200 -0300
+Change: 2024-05-26 03:03:56.125600000 -0300
+ Birth: 2024-05-26 03:03:49.865631000 -0300
+IPFS hash: Qme6naxBsDBXAyXu1rsyHDiC73PPPS2xTSK9CGusbLnt98
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/images/2.png
+  Size: 1288      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2038261     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.954650600 -0300
+ Birth: 2024-05-26 03:03:45.954650600 -0300
+IPFS hash: QmXf34n6tq8qTABCHPkC2GFndnFzMjohT1aa2g1UQAbTsa
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/images/3.jpg
+  Size: 3941      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 2501042     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.955650600 -0300
+ Birth: 2024-05-26 03:03:45.955650600 -0300
+IPFS hash: QmVsg5gFEFVDq3djVcWZfCTJ8pRQW79LeXXUwn48Lky2Pm
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/index.html
+  Size: 71272     	Blocks: 144        IO Block: 4096   regular file
+Device: 8,36	Inode: 3628392     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.952650600 -0300
+ Birth: 2024-05-26 03:03:45.951650600 -0300
+IPFS hash: QmeRGXsBKegNHapdkcGBWHchD82M5yYR5hBj5SC8vxQNAA
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/manifest.json
+  Size: 409       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 3669330     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.952650600 -0300
+ Birth: 2024-05-26 03:03:45.952650600 -0300
+IPFS hash: QmZfpdS99FF4wJqeSF2QjjMX2yahUgo5nFgF4UfhVH3JWp
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/stylesheet_0.css
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,36	Inode: 3704471     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.953650600 -0300
+ Birth: 2024-05-26 03:03:45.953650600 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/stylesheet_1.css
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,36	Inode: 3881128     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.953650600 -0300
+ Birth: 2024-05-26 03:03:45.953650600 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/stylesheet_2.css
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,36	Inode: 64512       Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.954650600 -0300
+ Birth: 2024-05-26 03:03:45.953650600 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/stylesheet_3.css
+  Size: 728       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,36	Inode: 99605       Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.954650600 -0300
+ Birth: 2024-05-26 03:03:45.954650600 -0300
+IPFS hash: QmetqD98LspB1eeGZsGxX64GnCEXEDfLaMDq3SfwkfG379
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29)/stylesheet_4.css
+  Size: 41132     	Blocks: 88         IO Block: 4096   regular file
+Device: 8,36	Inode: 214502      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:01:30.869000000 -0300
+Modify: 2024-05-26 03:01:30.869000000 -0300
+Change: 2024-05-26 03:03:45.954650600 -0300
+ Birth: 2024-05-26 03:03:45.954650600 -0300
+IPFS hash: QmUmcJBXASpuiaHv7k4Sd2DMvBhzbTtTqB2PVqpCSvsWss
+------------------------------
+  File: ./ChatGPT (26_05_2024 03_01_29).zip
+  Size: 87818     	Blocks: 176        IO Block: 4096   regular file
+Device: 8,36	Inode: 1139303     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-26 03:03:37.265694700 -0300
+Modify: 2024-05-26 03:01:30.961429400 -0300
+Change: 2024-05-26 03:03:29.849733000 -0300
+ Birth: 2024-05-26 03:02:18.947128500 -0300
+IPFS hash: QmVMcMoVa16RJbRVo1sG5kSpd5UCCsLpTwkxA7WPjUUo6B
+------------------------------
