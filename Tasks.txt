@@ -1,5 +1,5 @@
 To fix (OpenAI's ChatGPT):
-- /media/daniella/B/git/Floflis/Floflis/Utilities/blockchain-writer-suite/poster/blockchain-poster (POSTING CUT/INCOMPLETE! so, now use the ascii->hex tool instead of xxd)
+- /media/daniella/B/git/Floflis/Floflis/Utilities/blockchain-writer-suite/poster/blockchain-poster (pending to test: https://polygonscan.com/tx/0x7eefde49b89e4458b635877ac6053aed9d61af8d3cf17db787b6ed23772b9dc3 ; fix gas estimatives across all, so no longer stuck)
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/file-splitter (the splitter is an obligation ; the jointer is a challenge)
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/text-encrypt (beyond AES-128 ECB, also support the up-to-date algo used in TouchPass)
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc (should calc for multiple networks)
