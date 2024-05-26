@@ -1,6 +1,6 @@
 To fix (OpenAI's ChatGPT):
+- /media/daniella/B/git/Floflis/Floflis/Utilities/blockchain-writer-suite/poster/blockchain-poster (POSTING CUT/INCOMPLETE! so, now use the ascii->hex tool instead of xxd)
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/files/file-splitter (the splitter is an obligation ; the jointer is a challenge)
-- /media/daniella/B/git/Floflis/Floflis/Utilities/blockchain-writer-suite/poster/blockchain-poster (POSTING CUT/INCOMPLETE!)
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/text-encrypt (beyond AES-128 ECB, also support the up-to-date algo used in TouchPass)
 - /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/poster/eth-post-calc (should calc for multiple networks)
 -? /media/daniella/B/git/Floflis/Floflis/Utilities/eth-post-suite/tools/file-list-serializer
