@@ -1,0 +1,500 @@
+<pre><font color="#42E66C">     __  ,</font>
+<font color="#42E66C"> .--()°&apos;.&apos; </font>Welcome to <font color="#42E66C">Nushell</font>,
+<font color="#42E66C">&apos;|, . ,&apos;   </font>based on the <font color="#42E66C">nu</font> language,
+<font color="#42E66C"> !_-(_\    </font>where all data is structured!
+
+Please join our <font color="#E64747">Discord</font> community at <font color="#E64747">https://discord.gg/NtAbbGn</font>
+Our <font color="#50FA7B"><b>GitHub</b></font> repository is at <font color="#50FA7B"><b>https://github.com/nushell/nushell</b></font>
+Our <font color="#42E66C">Documentation</font> is located at <font color="#42E66C">http://nushell.sh</font>
+<font color="#75D7EC">Tweet</font> us at <font color="#8BE9FD"><b>@nu_shell</b></font>
+
+It&apos;s been this long since <font color="#42E66C">Nushell</font>&apos;s first commit:
+5yr 2wk 3day 11hr 50min 5sec 993ms 119µs 310ns
+
+Startup Time: 57ms 341µs 511ns
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>add</b></font> <font color="#50FA7B"><b>&apos;Generate Linux File from Base64 (26_05_2024 01_32_55)&apos;</b></font>
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>add</b></font> <font color="#50FA7B"><b>outdated/</b></font>
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>status</b></font>
+On branch main
+Your branch is ahead of &apos;origin/main&apos; by 14 commits.
+  (use &quot;git push&quot; to publish your local commits)
+
+Changes to be committed:
+  (use &quot;git restore --staged &lt;file&gt;...&quot; to unstage)
+	<font color="#42E66C">new file:   ../../.folderstamp1</font>
+	<font color="#42E66C">new file:   ../../.folderstamp2</font>
+	<font color="#42E66C">new file:   ../../.folderstamp3</font>
+	<font color="#42E66C">new file:   ../../.folderstamp4</font>
+	<font color="#42E66C">new file:   ../../.folderstamp5</font>
+	<font color="#42E66C">new file:   ../../.folderstamp6</font>
+	<font color="#42E66C">new file:   ../../.folderstamp7</font>
+	<font color="#42E66C">new file:   ../../.folderstamp7.log.html5</font>
+	<font color="#42E66C">new file:   ../../.folderstamp8</font>
+	<font color="#42E66C">new file:   ../../.folderstamp8.log.html5</font>
+	<font color="#42E66C">new file:   ../.folderstamp1</font>
+	<font color="#42E66C">new file:   ../.folderstamp2</font>
+	<font color="#42E66C">new file:   ../.folderstamp3</font>
+	<font color="#42E66C">new file:   ../.folderstamp4</font>
+	<font color="#42E66C">new file:   ../.folderstamp5</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../1/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../1/decodedfile.txt</font>
+	<font color="#42E66C">new file:   ../1/decodedfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../1/encodedfile.txt</font>
+	<font color="#42E66C">new file:   ../1/originalfile.txt</font>
+	<font color="#42E66C">new file:   ../1/originalfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp4</font>
+	<font color="#42E66C">new file:   ../2/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../2/decoded_image.jpg</font>
+	<font color="#42E66C">new file:   ../2/image.jpg</font>
+	<font color="#42E66C">new file:   ../2/image_with_uri.base64</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/images/2.png</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/images/3.jpg</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/index.html</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/manifest.json</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_3.css</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_4.css</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/images/3.jpg</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/index.html</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/manifest.json</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_3.css</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_4.css</font>
+	<font color="#42E66C">new file:   ../tests/1/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/1/decodedfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/decodedfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../tests/1/encodedfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/originalfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/originalfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp4</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp5</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp6</font>
+	<font color="#42E66C">new file:   ../tests/2/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar00023.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar3.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/original/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/2/original/digitalizar00023.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/original/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64-bkp.txt -&gt; ../../../old/IMG_20240207_202001_384.base64-bkp.txt</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt -&gt; ../../../old/IMG_20240207_202001_384.base64.txt</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt-0.jpg -&gt; ../../../old/IMG_20240207_202001_384.base64.txt-0.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt.jpg -&gt; ../../../old/IMG_20240207_202001_384.base64.txt.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.jpg -&gt; ../../../old/IMG_20240207_202001_384.jpg</font>
+	<font color="#42E66C">renamed:    ../../../base64-to-bin.sh -&gt; ../../../old/base64-to-bin.sh</font>
+	<font color="#42E66C">renamed:    ../../../bin-to-base64.sh -&gt; ../../../old/bin-to-base64.sh</font>
+
+Untracked files:
+  (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)
+	<font color="#E356A7">../1/script-0.sh</font>
+	<font color="#E356A7">../1/script.sh</font>
+	<font color="#E356A7">../2/script.sh</font>
+	<font color="#E356A7">.folderstamp1</font>
+	<font color="#E356A7">.folderstamp2</font>
+	<font color="#E356A7">.folderstamp3</font>
+	<font color="#E356A7">.folderstamp4</font>
+	<font color="#E356A7">.folderstamp5</font>
+	<font color="#E356A7">.folderstamp5.log.html5</font>
+	<font color="#E356A7">.folderstamp6</font>
+	<font color="#E356A7">Gemini (26_05_2024 01_17_58)/</font>
+
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>add</b></font> <font color="#50FA7B"><b>*.html5</b></font>
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>status</b></font>
+On branch main
+Your branch is ahead of &apos;origin/main&apos; by 14 commits.
+  (use &quot;git push&quot; to publish your local commits)
+
+Changes to be committed:
+  (use &quot;git restore --staged &lt;file&gt;...&quot; to unstage)
+	<font color="#42E66C">new file:   ../../.folderstamp1</font>
+	<font color="#42E66C">new file:   ../../.folderstamp2</font>
+	<font color="#42E66C">new file:   ../../.folderstamp3</font>
+	<font color="#42E66C">new file:   ../../.folderstamp4</font>
+	<font color="#42E66C">new file:   ../../.folderstamp5</font>
+	<font color="#42E66C">new file:   ../../.folderstamp6</font>
+	<font color="#42E66C">new file:   ../../.folderstamp7</font>
+	<font color="#42E66C">new file:   ../../.folderstamp7.log.html5</font>
+	<font color="#42E66C">new file:   ../../.folderstamp8</font>
+	<font color="#42E66C">new file:   ../../.folderstamp8.log.html5</font>
+	<font color="#42E66C">new file:   ../.folderstamp1</font>
+	<font color="#42E66C">new file:   ../.folderstamp2</font>
+	<font color="#42E66C">new file:   ../.folderstamp3</font>
+	<font color="#42E66C">new file:   ../.folderstamp4</font>
+	<font color="#42E66C">new file:   ../.folderstamp5</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../1/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../1/decodedfile.txt</font>
+	<font color="#42E66C">new file:   ../1/decodedfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../1/encodedfile.txt</font>
+	<font color="#42E66C">new file:   ../1/originalfile.txt</font>
+	<font color="#42E66C">new file:   ../1/originalfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp4</font>
+	<font color="#42E66C">new file:   ../2/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../2/decoded_image.jpg</font>
+	<font color="#42E66C">new file:   ../2/image.jpg</font>
+	<font color="#42E66C">new file:   ../2/image_with_uri.base64</font>
+	<font color="#42E66C">new file:   .folderstamp5.log.html5</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/images/2.png</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/images/3.jpg</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/index.html</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/manifest.json</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_3.css</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_4.css</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/images/3.jpg</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/index.html</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/manifest.json</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_3.css</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_4.css</font>
+	<font color="#42E66C">new file:   ../tests/1/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/1/decodedfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/decodedfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../tests/1/encodedfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/originalfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/originalfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp4</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp5</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp6</font>
+	<font color="#42E66C">new file:   ../tests/2/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar00023.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar3.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/original/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/2/original/digitalizar00023.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/original/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64-bkp.txt -&gt; ../../../old/IMG_20240207_202001_384.base64-bkp.txt</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt -&gt; ../../../old/IMG_20240207_202001_384.base64.txt</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt-0.jpg -&gt; ../../../old/IMG_20240207_202001_384.base64.txt-0.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt.jpg -&gt; ../../../old/IMG_20240207_202001_384.base64.txt.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.jpg -&gt; ../../../old/IMG_20240207_202001_384.jpg</font>
+	<font color="#42E66C">renamed:    ../../../base64-to-bin.sh -&gt; ../../../old/base64-to-bin.sh</font>
+	<font color="#42E66C">renamed:    ../../../bin-to-base64.sh -&gt; ../../../old/bin-to-base64.sh</font>
+
+Untracked files:
+  (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)
+	<font color="#E356A7">../1/script-0.sh</font>
+	<font color="#E356A7">../1/script.sh</font>
+	<font color="#E356A7">../2/script.sh</font>
+	<font color="#E356A7">.folderstamp1</font>
+	<font color="#E356A7">.folderstamp2</font>
+	<font color="#E356A7">.folderstamp3</font>
+	<font color="#E356A7">.folderstamp4</font>
+	<font color="#E356A7">.folderstamp5</font>
+	<font color="#E356A7">.folderstamp6</font>
+	<font color="#E356A7">Gemini (26_05_2024 01_17_58)/</font>
+
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>add</b></font> <font color="#50FA7B"><b>*.folderstamp*</b></font>
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>status</b></font>
+On branch main
+Your branch is ahead of &apos;origin/main&apos; by 14 commits.
+  (use &quot;git push&quot; to publish your local commits)
+
+Changes to be committed:
+  (use &quot;git restore --staged &lt;file&gt;...&quot; to unstage)
+	<font color="#42E66C">new file:   ../../.folderstamp1</font>
+	<font color="#42E66C">new file:   ../../.folderstamp2</font>
+	<font color="#42E66C">new file:   ../../.folderstamp3</font>
+	<font color="#42E66C">new file:   ../../.folderstamp4</font>
+	<font color="#42E66C">new file:   ../../.folderstamp5</font>
+	<font color="#42E66C">new file:   ../../.folderstamp6</font>
+	<font color="#42E66C">new file:   ../../.folderstamp7</font>
+	<font color="#42E66C">new file:   ../../.folderstamp7.log.html5</font>
+	<font color="#42E66C">new file:   ../../.folderstamp8</font>
+	<font color="#42E66C">new file:   ../../.folderstamp8.log.html5</font>
+	<font color="#42E66C">new file:   ../.folderstamp1</font>
+	<font color="#42E66C">new file:   ../.folderstamp2</font>
+	<font color="#42E66C">new file:   ../.folderstamp3</font>
+	<font color="#42E66C">new file:   ../.folderstamp4</font>
+	<font color="#42E66C">new file:   ../.folderstamp5</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../1/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../1/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../1/decodedfile.txt</font>
+	<font color="#42E66C">new file:   ../1/decodedfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../1/encodedfile.txt</font>
+	<font color="#42E66C">new file:   ../1/originalfile.txt</font>
+	<font color="#42E66C">new file:   ../1/originalfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../2/.folderstamp4</font>
+	<font color="#42E66C">new file:   ../2/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../2/decoded_image.jpg</font>
+	<font color="#42E66C">new file:   ../2/image.jpg</font>
+	<font color="#42E66C">new file:   ../2/image_with_uri.base64</font>
+	<font color="#42E66C">new file:   .folderstamp1</font>
+	<font color="#42E66C">new file:   .folderstamp2</font>
+	<font color="#42E66C">new file:   .folderstamp3</font>
+	<font color="#42E66C">new file:   .folderstamp4</font>
+	<font color="#42E66C">new file:   .folderstamp5</font>
+	<font color="#42E66C">new file:   .folderstamp5.log.html5</font>
+	<font color="#42E66C">new file:   .folderstamp6</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/images/2.png</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/images/3.jpg</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/index.html</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/manifest.json</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_3.css</font>
+	<font color="#42E66C">new file:   Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_4.css</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/images/3.jpg</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/index.html</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/manifest.json</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_3.css</font>
+	<font color="#42E66C">new file:   outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_4.css</font>
+	<font color="#42E66C">new file:   ../tests/1/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/1/decodedfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/decodedfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../tests/1/encodedfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/originalfile.txt</font>
+	<font color="#42E66C">new file:   ../tests/1/originalfile.txt.sha256</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp1</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp2</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp3</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp4</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp5</font>
+	<font color="#42E66C">new file:   ../tests/2/.folderstamp6</font>
+	<font color="#42E66C">new file:   ../tests/2/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar00023.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/digitalizar3.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg.base64.txt</font>
+	<font color="#42E66C">new file:   ../tests/2/original/cli.log.html5</font>
+	<font color="#42E66C">new file:   ../tests/2/original/digitalizar00023.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">new file:   ../tests/2/original/digitalizar3.svg.screenshot.cropped.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64-bkp.txt -&gt; ../../../old/IMG_20240207_202001_384.base64-bkp.txt</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt -&gt; ../../../old/IMG_20240207_202001_384.base64.txt</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt-0.jpg -&gt; ../../../old/IMG_20240207_202001_384.base64.txt-0.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.base64.txt.jpg -&gt; ../../../old/IMG_20240207_202001_384.base64.txt.jpg</font>
+	<font color="#42E66C">renamed:    ../../../IMG_20240207_202001_384.jpg -&gt; ../../../old/IMG_20240207_202001_384.jpg</font>
+	<font color="#42E66C">renamed:    ../../../base64-to-bin.sh -&gt; ../../../old/base64-to-bin.sh</font>
+	<font color="#42E66C">renamed:    ../../../bin-to-base64.sh -&gt; ../../../old/bin-to-base64.sh</font>
+
+Untracked files:
+  (use &quot;git add &lt;file&gt;...&quot; to include in what will be committed)
+	<font color="#E356A7">../1/script-0.sh</font>
+	<font color="#E356A7">../1/script.sh</font>
+	<font color="#E356A7">../2/script.sh</font>
+	<font color="#E356A7">Gemini (26_05_2024 01_17_58)/</font>
+
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[»+?⇡]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">git</font> <font color="#50FA7B"><b>commit</b></font> <font color="#50FA7B"><b>-m</b></font> <font color="#50FA7B"><b>&quot;Prepare for the next commit (AI Coding)&quot;</b></font>
+🤓📝 Storing files&apos; timestamp, CID/hash; and other files/commit&apos;s metadata...
+mkdir: cannot create directory ‘.gitmeta/cids_detailed’: File exists
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp1
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp2
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp3
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp4
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp6
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp7
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp7.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp8
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/.folderstamp8.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp1
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp2
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp3
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp4
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/.folderstamp1
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/.folderstamp2
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/.folderstamp3
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/cli.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/decodedfile.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/decodedfile.txt.sha256
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/encodedfile.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/originalfile.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/originalfile.txt.sha256
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp1
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp2
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp3
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp4
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/cli.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/decoded_image.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/image.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/image_with_uri.base64
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp1
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp2
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp3
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp4
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp5.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp6
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/images/2.png
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/images/3.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/index.html
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/manifest.json
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_3.css
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_4.css
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/images/3.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/index.html
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/manifest.json
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_3.css
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_4.css
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/cli.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/decodedfile.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/decodedfile.txt.sha256
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/encodedfile.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/originalfile.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/originalfile.txt.sha256
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp1
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp2
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp3
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp4
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp6
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/cli.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar00023.svg.screenshot.cropped.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar3.svg.screenshot.cropped.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar3.svg.screenshot.cropped.jpg.base64.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/discard/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg.base64.txt
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/original/cli.log.html5
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/original/digitalizar00023.svg.screenshot.cropped.jpg
+[DEBUG]Current file: files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/original/digitalizar3.svg.screenshot.cropped.jpg
+[DEBUG]Current file: files/bin-base64/old/IMG_20240207_202001_384.base64-bkp.txt
+[DEBUG]Current file: files/bin-base64/old/IMG_20240207_202001_384.base64.txt
+[DEBUG]Current file: files/bin-base64/old/IMG_20240207_202001_384.base64.txt-0.jpg
+[DEBUG]Current file: files/bin-base64/old/IMG_20240207_202001_384.base64.txt.jpg
+[DEBUG]Current file: files/bin-base64/old/IMG_20240207_202001_384.jpg
+[DEBUG]Current file: files/bin-base64/old/base64-to-bin.sh
+[DEBUG]Current file: files/bin-base64/old/bin-to-base64.sh
+[01VCS] 🆔Commit ID: QmXs1SPN66Uv3MpyWwvG6NVFvFiPktoRBmNBfZFjeMyG1i
+💎 Found .git/hooks/.eth!
+🪄 Signing the commit QmXs1SPN66Uv3MpyWwvG6NVFvFiPktoRBmNBfZFjeMyG1i with your choosen ETH address 0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91...
+🔦 Verifying signature...
+Verified
+✅ Done. Meta has been preserved!
+🎉 Your snapshot/commit is done!
+[main 4a80bbb] Prepare for the next commit (AI Coding)
+ 85 files changed, 8642 insertions(+), 26 deletions(-)
+ delete mode 100755 .gitmeta
+ create mode 100644 .gitmeta/.gitmeta
+ create mode 100644 .gitmeta/cids.txt
+ create mode 100644 .gitmeta/cids_detailed/files-only.txt
+ create mode 100644 .gitmeta/cids_detailed/with-sha1.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp1
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp2
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp3
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp4
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp5
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp6
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp7
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp7.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp8
+ create mode 100644 files/bin-base64/Base64Witchcraft/.folderstamp8.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp1
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp2
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp3
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp4
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/.folderstamp5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/.folderstamp1
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/.folderstamp2
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/.folderstamp3
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/cli.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/decodedfile.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/decodedfile.txt.sha256
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/encodedfile.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/originalfile.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/1/originalfile.txt.sha256
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp1
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp2
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp3
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/.folderstamp4
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/cli.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/decoded_image.jpg
+ create mode 100755 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/image.jpg
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/2/image_with_uri.base64
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp1
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp2
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp3
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp4
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp5.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/.folderstamp6
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/images/2.png
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/images/3.jpg
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/index.html
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/manifest.json
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_3.css
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/Generate Linux File from Base64 (26_05_2024 01_32_55)/stylesheet_4.css
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/images/3.jpg
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/index.html
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/manifest.json
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_3.css
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/AIBrainstorming/outdated/Generate Linux File from Base64 (26_05_2024 01_20_12)/stylesheet_4.css
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/cli.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/decodedfile.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/decodedfile.txt.sha256
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/encodedfile.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/originalfile.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/1/originalfile.txt.sha256
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp1
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp2
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp3
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp4
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/.folderstamp6
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/cli.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar00023.svg.screenshot.cropped.jpg
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar3.svg.screenshot.cropped.jpg
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/digitalizar3.svg.screenshot.cropped.jpg.base64.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/discard/digitalizar00023.svg.screenshot.cropped.jpg.base64.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/discard/digitalizar3.svg.screenshot.cropped.jpg.base64.txt
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/original/cli.log.html5
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/original/digitalizar00023.svg.screenshot.cropped.jpg
+ create mode 100644 files/bin-base64/Base64Witchcraft/encoder-decoder_script/tests/2/original/digitalizar3.svg.screenshot.cropped.jpg
+ rename files/bin-base64/{ =&gt; old}/IMG_20240207_202001_384.base64-bkp.txt (100%)
+ rename files/bin-base64/{ =&gt; old}/IMG_20240207_202001_384.base64.txt (100%)
+ rename files/bin-base64/{ =&gt; old}/IMG_20240207_202001_384.base64.txt-0.jpg (100%)
+ rename files/bin-base64/{ =&gt; old}/IMG_20240207_202001_384.base64.txt.jpg (100%)
+ rename files/bin-base64/{ =&gt; old}/IMG_20240207_202001_384.jpg (100%)
+ rename files/bin-base64/{ =&gt; old}/base64-to-bin.sh (100%)
+ rename files/bin-base64/{ =&gt; old}/bin-to-base64.sh (100%)
+
+<font color="#8BE9FD"><b>Base64Witchcraft/encoder-decoder_script/AIBrainstorming</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[✘?⇡]</b></font> took <font color="#F1FA8C"><b>12s</b></font> 
+<font color="#50FA7B"><b>❯</b></font> 
+</pre>
