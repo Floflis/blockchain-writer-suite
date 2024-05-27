@@ -1,0 +1,6 @@
+- Don't require the "network" flag, so fallback to Polygon PoS when nothing supplied
+- Accept both "--network <name>" and "--network=<name>"!
+- Don't differentiate the position of the $3+
+- Fixed support for Polygon PoS zkEVM
+- Use Ethers+Optimistic L1 gas oracles to estimate gas for Optimism and Base
+- Support for all other networks listed on Floflis
