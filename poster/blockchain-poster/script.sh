@@ -17,6 +17,21 @@ if [ "$3" = "--network" ]; then
        network_chainid="1101"
        network_gas_standard="$(curl -s 'https://gasstation.polygon.technology/zkevm' | jq -r '.standard')"
     fi
+    if [ "$4" = "arbitrum" ]; then
+       choosen_network="https://arbitrum-one.public.blastapi.io"
+       network_chainid="42161"
+       network_gas_standard="0.1"
+    fi
+    if [ "$4" = "optimism" ]; then
+       choosen_network="https://rpc.ankr.com/optimism"
+       network_chainid="10"
+       network_gas_standard="0.1"
+    fi
+    if [ "$4" = "base" ]; then
+       choosen_network="https://base.llamarpc.com"
+       network_chainid="8453"
+       network_gas_standard="0.1"
+    fi
 fi
 
 file_path=$1
