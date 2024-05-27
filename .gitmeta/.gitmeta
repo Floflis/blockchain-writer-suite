@@ -1,12 +1,12 @@
-commit QmXKL7oR7HXMCVhzJWv5azuWeqkoArTCZkXPsPCxcFL2eq
+commit QmZfj4LAkLC1ytC6UMcRYrD3B2eXF46ebMDmF6sgiDhyaV
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 8c853e407dcd9a5338880ad3bbe8ef07d0b99c7e617b41c8ebd0f1f0cc5ece6c719e04ec6d9c5f4c4aa7b6d641d0a282ba1b00d5cfe5f103d86fdf6f8d215ebc01
+Signature: 00a00b2ad6d9c53e09cbb6457c566f624b47300c7a509dc740ba0897e659694544ce9e2512cbb8d7442625ba1780d65fd5e54120aa86f7b9b819da2f36e8e04c01
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmcKGCZPrAn2hXueFJ3DfypQetZfnPZ4tasxQW45apcQoq
-Commit CID if containing only file hashes: QmeT8PhegHQcbdXBazbyvLKsc6NJ7QGWeZSusdzRunrBJG
+Commit CID if including git's SHA1: QmQ5YR8apvKPgmACsKB2fSPf9hCqwfop13EVdjaW9u4Kay
+Commit CID if containing only file hashes: QmeKCFJSNUe1ESPk9wcN3nxjRNB5DxekPFmAJbueTu6Lft
 
 ------------------------------
 
@@ -19,13 +19,5 @@ Remote URL: https://github.com/Floflis/blockchain-writer-suite.git
 
 chown -h 1000:1000 'poster/blockchain-poster/Tasks.txt'
 chmod 0664 'poster/blockchain-poster/Tasks.txt'
-/usr/bin/touch -hcmd "2024-05-27 00:31:02.7607513000 -0300" 'poster/blockchain-poster/Tasks.txt'
-/usr/bin/touch -hcad "2024-05-27 00:34:18.7866571000 -0300" 'poster/blockchain-poster/Tasks.txt'
-chown -h 1000:1000 'poster/blockchain-poster/script.sh'
-chmod 0664 'poster/blockchain-poster/script.sh'
-/usr/bin/touch -hcmd "2024-05-27 00:32:25.6293892000 -0300" 'poster/blockchain-poster/script.sh'
-/usr/bin/touch -hcad "2024-05-27 00:32:44.2570946000 -0300" 'poster/blockchain-poster/script.sh'
-chown -h 1000:1000 'poster/blockchain-poster/transaction_id.json'
-chmod 0664 'poster/blockchain-poster/transaction_id.json'
-/usr/bin/touch -hcmd "2024-05-27 00:33:54.7540140000 -0300" 'poster/blockchain-poster/transaction_id.json'
-/usr/bin/touch -hcad "2024-05-27 00:33:54.7860135000 -0300" 'poster/blockchain-poster/transaction_id.json'
+/usr/bin/touch -hcmd "2024-05-27 00:36:45.2095917000 -0300" 'poster/blockchain-poster/Tasks.txt'
+/usr/bin/touch -hcad "2024-05-27 00:36:51.1995108000 -0300" 'poster/blockchain-poster/Tasks.txt'

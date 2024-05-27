@@ -1,6 +1,13 @@
 - Don't require the "network" flag, so fallback to Polygon PoS when nothing supplied
 - Accept both "--network <name>" and "--network=<name>"!
 - Don't differentiate the position of the $3+
+
 - Fixed support for Polygon PoS zkEVM
+-
+- Fixed support for:
+arbitrum: Failed to create transaction: failed to obtain current base fee: transaction type not supported
+optimism: Failed to create transaction: failed to obtain current base fee: transaction type not supported
+base: Failed to create transaction: failed to obtain current base fee: transaction type not supported
+
 - Use Ethers+Optimistic L1 gas oracles to estimate gas for Optimism and Base (or pup https://tokentool.bitbond.com/gas-price/arbitrum + https://tokentool.bitbond.com/gas-price/optimism + https://tokentool.bitbond.com/gas-price/base + https://tokentool.bitbond.com/gas-price/bsc)
 - Support for all other networks listed on Floflis
