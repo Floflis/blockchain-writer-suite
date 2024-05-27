@@ -1,4 +1,4 @@
 Test
-Post via CLI instead of browser
-Another test line
+Post via CLI (https://github.com/Floflis/blockchain-writer-suite.git) instead of browser
+Another test line✨
 Message

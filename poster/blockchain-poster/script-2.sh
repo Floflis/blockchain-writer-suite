@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Check if the required arguments are provided
-if [ "$#" -ne 4 ]; then
-    echo "Usage: $0 <msg_file-path> <eth_address> --network <evm_network>"
+if [ "$#" -ne 3 ]; then
+    echo "Usage: $0 <msg_file-path> <eth_address>"
     exit 1
 fi
 

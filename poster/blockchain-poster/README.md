@@ -5,11 +5,12 @@ This Bash script is designed to send custom HEX messages to a given Ethereum add
 ## Usage
 
 ```bash
-./script.sh <msg_file-path> <eth_address>
+./script.sh <msg_file-path> <eth_address> --network <evm_network>
 ```
 
 - `<msg_file-path>`: Path to the .txt file containing the HEX message.
 - `<eth_address>`: Ethereum address to send the HEX message to.
+- `<evm_network>`: the name of the EVM network/blockchain to use (currently available: `polygon` and `polygonzkevm`)
 
 ## Prerequisites
 
@@ -25,8 +26,8 @@ This Bash script is designed to send custom HEX messages to a given Ethereum add
 ## Example
 
 ```bash
-./script.sh message.txt 0x1234567890...abcdef
+./script.sh message.txt 0x1234567890...abcdef --network polygonzkevm
 ```
 
-This will send the HEX contents of `message.txt` to Ethereum address `0x1234567890...abcdef`.
+This will send the HEX contents of `message.txt` to Ethereum address `0x1234567890...abcdef` on the Polygon zkEVM L2 network.
 

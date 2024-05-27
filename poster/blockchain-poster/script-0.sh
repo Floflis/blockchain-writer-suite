@@ -1,22 +1,9 @@
 #!/bin/bash
 
 # Check if the required arguments are provided
-if [ "$#" -ne 4 ]; then
-    echo "Usage: $0 <msg_file-path> <eth_address> --network <evm_network>"
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <msg_file-path> <eth_address>"
     exit 1
-fi
-
-if [ "$3" = "--network" ]; then
-    if [ "$4" = "polygon" ]; then
-       choosen_network="https://polygon-mainnet.public.blastapi.io"
-       network_chainid="137"
-       network_gas_standard="$(curl -s 'https://gasstation.polygon.technology/v2' | jq -r '.standard.maxPriorityFee')"
-    fi
-    if [ "$4" = "polygonzkevm" ]; then
-       choosen_network="https://rpc.ankr.com/polygon_zkevm"
-       network_chainid="1101"
-       network_gas_standard="$(curl -s 'https://gasstation.polygon.technology/zkevm' | jq -r '.standard')"
-    fi
 fi
 
 file_path=$1
@@ -40,7 +27,7 @@ USER_ADDRESS=$(jq -r '.eth' /1/config/user.json)
 #tx_id=$(ethereal --connection=https://rpc-mainnet.polygonvigil.com/ transaction send --from=$USER_ADDRESS --to=$destination_address --amount="0" --data $plain_contents)
 echo "[DEBUG] plain_contents: $plain_contents"
 echo "Waiting for your transaction to be mined..."
-tx_id=$(ethereal --connection="$choosen_network" --chainid="$network_chainid" transaction send --from=$USER_ADDRESS --to=$destination_address --amount="0" --data "$plain_contents" --priority-fee-per-gas "$network_gas_standard Gwei" --debug --wait)
+tx_id=$(ethereal --connection="https://polygon-mainnet.public.blastapi.io" --chainid=137 transaction send --from=$USER_ADDRESS --to=$destination_address --amount="0" --data "$plain_contents" --gaslimit 22008 --priority-fee-per-gas "40 Gwei" --debug --wait)
 #-
 rm output.txt
 
